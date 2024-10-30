@@ -1,0 +1,17 @@
+{
+    "name": "sasnys/giftvoucher",
+    "description": "Makes a gift Voucher with PayPal connection",
+    "type": "metapackage",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Robert Dwight",
+            "email": "robert@seriah.net.au"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    "psr-4":{"Bin\\":"./bin"}
+    }
+}

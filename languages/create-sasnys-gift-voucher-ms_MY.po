@@ -1,0 +1,675 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-20 15:43+1000\n"
+"PO-Revision-Date: 2019-06-29 18:16+1000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: create-sasnys_gift_voucher.php:129 create-sasnys_gift_voucher.php:461
+msgid "A special gift card for someone special"
+msgstr "Kad hadiah istimewa untuk seseorang yang istimewa"
+
+#: create-sasnys_gift_voucher.php:129
+msgid "recipiants name"
+msgstr "nama penerima"
+
+#: create-sasnys_gift_voucher.php:129
+msgid "a name to use as the provider of the voucher"
+msgstr "nama untuk digunakan sebagai pembekal baucar"
+
+#: create-sasnys_gift_voucher.php:177 create-sasnys_gift_voucher.php:179
+msgid "There has been an error in establishing a connection to the database with this sort of error"
+msgstr "Terdapat ralat dalam membuat sambungan ke pangkalan data dengan ralat ini"
+
+#: create-sasnys_gift_voucher.php:177 create-sasnys_gift_voucher.php:179
+msgid "please Phone "
+msgstr "sila telefon"
+
+#: create-sasnys_gift_voucher.php:231
+msgid "Download Voucher"
+msgstr "Muat turun Baucar"
+
+#: create-sasnys_gift_voucher.php:244
+#: bin/admin_templates/Admin_Settings.php:62
+#: bin/admin_templates/Admin_Settings.php:67
+#: bin/admin_templates/Admin_Settings.php:68
+#: bin/admin_templates/Admin_Settings.php:75 bin/dsign/functions.php:72
+#: bin/dsign/functions.php:183
+msgid "none selected"
+msgstr "tiada pilihan"
+
+#: create-sasnys_gift_voucher.php:253
+msgid "The Gift card processors have finished"
+msgstr "Pemproses kad hadiah telah selesai"
+
+#: create-sasnys_gift_voucher.php:254
+msgid "Thanking you for your custom click the button to download your voucher or go back to edit your gift card"
+msgstr "Berterima kasih untuk butang klik peribadi anda untuk memuat turun baucer anda atau kembali untuk mengedit kad hadiah anda"
+
+#: create-sasnys_gift_voucher.php:255
+msgid "If you have any problems please contact "
+msgstr "Sekiranya anda mempunyai masalah, sila hubungi"
+
+#: create-sasnys_gift_voucher.php:257
+msgid "Go back to editor"
+msgstr "Kembali ke editor"
+
+#: create-sasnys_gift_voucher.php:262
+msgid "The Gift card processors have had an error"
+msgstr "Pemproses kad hadiah mempunyai ralat"
+
+#: create-sasnys_gift_voucher.php:263
+msgid " please contact "
+msgstr "sila hubungi"
+
+#: create-sasnys_gift_voucher.php:263
+msgid "taking note of the time"
+msgstr "mengambil perhatian masa itu"
+
+#: create-sasnys_gift_voucher.php:263
+msgid "for referance to PayPal"
+msgstr "untuk rujukan kepada PayPal"
+
+#: create-sasnys_gift_voucher.php:264
+msgid " click the button to close "
+msgstr "klik butang untuk menutup"
+
+#: create-sasnys_gift_voucher.php:265 create-sasnys_gift_voucher.php:504
+msgid "Close Page"
+msgstr "Tutup Halaman"
+
+#: create-sasnys_gift_voucher.php:282
+msgid "Gift Certificate design page"
+msgstr "Halaman reka bentuk sijil Hadiah"
+
+#: create-sasnys_gift_voucher.php:287
+msgid "You have successfully navigated through to the design page"
+msgstr "Anda berjaya melayari laman reka bentuk"
+
+#: create-sasnys_gift_voucher.php:306
+msgid "Gifted to"
+msgstr "Berbakat untuk"
+
+#: create-sasnys_gift_voucher.php:307
+msgid "Value of $"
+msgstr "Nilai $"
+
+#: create-sasnys_gift_voucher.php:309
+msgid "Gifted from"
+msgstr "Berbakat dari"
+
+#: create-sasnys_gift_voucher.php:311
+msgid "expiry date"
+msgstr "tarikh luput"
+
+#: create-sasnys_gift_voucher.php:312
+msgid "code name"
+msgstr "nama kod"
+
+#: create-sasnys_gift_voucher.php:335
+msgid "The recipients name to put on certificate  "
+msgstr "Nama penerima untuk memakai sijil"
+
+#: create-sasnys_gift_voucher.php:358
+msgid "From name"
+msgstr "Dari nama"
+
+#: create-sasnys_gift_voucher.php:360
+msgid "Preferred name"
+msgstr "Nama pilihan"
+
+#: create-sasnys_gift_voucher.php:375
+msgid "Gift Card Expiry date"
+msgstr "Tarikh Kad Pemberian Hadiah"
+
+#: create-sasnys_gift_voucher.php:392
+msgid "Value of Gift Card"
+msgstr "Nilai Kad Hadiah"
+
+#: create-sasnys_gift_voucher.php:408
+msgid "Gift Card code number"
+msgstr "Nombor kod kad hadiah"
+
+#: create-sasnys_gift_voucher.php:424
+msgid "Your e-mail address"
+msgstr "Alamat e-mel anda"
+
+#: create-sasnys_gift_voucher.php:427
+msgid "Please enter an email address to send attached pdf to"
+msgstr "Sila masukkan alamat e-mel untuk menghantar pdf terlampir ke"
+
+#: create-sasnys_gift_voucher.php:428
+msgid "The e-mail acct to forward the certificate for printing"
+msgstr "E-mel acct untuk meneruskan sijil untuk percetakan"
+
+#: create-sasnys_gift_voucher.php:442
+msgid "Text for Gift Card"
+msgstr "Teks untuk Kad Hadiah"
+
+#: create-sasnys_gift_voucher.php:445
+msgid "you can add or change any text in this area"
+msgstr "anda boleh menambah atau menukar sebarang teks di kawasan ini"
+
+#: create-sasnys_gift_voucher.php:453
+msgid "selection of suitable sentenances to choose and or change"
+msgstr "pemilihan senten yang sesuai untuk dipilih dan atau diubah"
+
+#: create-sasnys_gift_voucher.php:454
+msgid "Example text"
+msgstr "Teks contoh"
+
+#: create-sasnys_gift_voucher.php:455
+msgid "To the best dad in the world"
+msgstr "Kepada ayah terbaik di dunia"
+
+#: create-sasnys_gift_voucher.php:456
+msgid "To the best mum in the world"
+msgstr "Kepada ibu terbaik di dunia"
+
+#: create-sasnys_gift_voucher.php:457
+msgid "To the best nanna in the world"
+msgstr "Untuk nanna terbaik di dunia"
+
+#: create-sasnys_gift_voucher.php:458
+msgid "To the best pop in the world"
+msgstr "Untuk pop terbaik di dunia"
+
+#: create-sasnys_gift_voucher.php:459
+msgid "For a job well done"
+msgstr "Untuk pekerjaan yang dilakukan dengan baik"
+
+#: create-sasnys_gift_voucher.php:460
+msgid "Its our anniversary"
+msgstr "Ulang tahun kami"
+
+#: create-sasnys_gift_voucher.php:462
+msgid "Just because you deserve it"
+msgstr "Hanya kerana anda sepatutnya"
+
+#: create-sasnys_gift_voucher.php:474 create-sasnys_gift_voucher.php:503
+msgid "Submit for printing"
+msgstr "Hantar untuk percetakan"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Create email with Attachment"
+msgstr "Buat e-mel dengan Lampiran"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Download from browser"
+msgstr "Muat turun dari penyemak imbas"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Both"
+msgstr "Kedua-duanya"
+
+#: create-sasnys_gift_voucher.php:485 create-sasnys_gift_voucher.php:487
+msgid "Select a frame for the gift card"
+msgstr "Pilih bingkai untuk kad hadiah"
+
+#: create-sasnys_gift_voucher.php:486
+msgid "Select a border"
+msgstr "Pilih sempadan"
+
+#: create-sasnys_gift_voucher.php:499
+msgid "Are you ready to print the Gift card to a PDF and mail it to"
+msgstr "Adakah anda bersedia untuk mencetak kad Hadiah ke PDF dan mel kepadanya"
+
+#: create-sasnys_gift_voucher.php:500
+msgid "Are you ready to download a PDF file of the Gift Card ?"
+msgstr "Adakah anda bersedia untuk memuat turun fail PDF kad Hadiah?"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "Are you ready to print the Gift card to a PDF"
+msgstr "Adakah anda bersedia untuk mencetak kad Hadiah ke PDF"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "and mail it to"
+msgstr "dan hantar ke"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "as well as downloading a copy?"
+msgstr "serta memuat turun salinan?"
+
+#: create-sasnys_gift_voucher.php:505
+msgid "Modify go back"
+msgstr "Ubah suai balik"
+
+#: create-sasnys_gift_voucher.php:641
+msgid "Sorry to hear that you cancelled. if you had trouble please use our contact page to report to management."
+msgstr "Maaf untuk mendengar bahawa anda telah dibatalkan. jika anda menghadapi masalah, sila gunakan halaman hubungan kami untuk melaporkan kepada pihak pengurusan."
+
+#: bin/admin_templates/Admin_Settings.php:74
+msgid "Voucher Valid period has to be a number"
+msgstr "Baucar Tempoh sah mesti menjadi nombor"
+
+#: bin/admin_templates/Admin_Settings.php:96
+msgid "Wordpress Short codes"
+msgstr "Kod pendek Wordpress"
+
+#: bin/admin_templates/Admin_Settings.php:97
+msgid "Page suggested format design"
+msgstr "Reka bentuk format yang dicadangkan halaman"
+
+#: bin/admin_templates/Admin_Settings.php:98
+msgid "Description of processors"
+msgstr "Penerangan pemproses"
+
+#: bin/admin_templates/Admin_Settings.php:104
+msgid "Create a Sales orientated page with a small section to hold a table of three rows and one column the actual size of the insert is shown here. Background colour is transparent and the text is white"
+msgstr "Buat halaman berorientasikan Jualan dengan seksyen kecil untuk memegang jadual tiga baris dan satu lajur saiz sebenarnya sisipan dipaparkan di sini. Warna latar belakang adalah telus dan teks berwarna putih"
+
+#: bin/admin_templates/Admin_Settings.php:107
+msgid "Enter value "
+msgstr "Masukkan nilai"
+
+#: bin/admin_templates/Admin_Settings.php:124
+msgid "Creates a link to the wordpress database and then automatically creates a database table called"
+msgstr "Mencipta pautan ke pangkalan data wordpress dan kemudian secara automatik mencipta jadual pangkalan data yang dipanggil"
+
+#: bin/admin_templates/Admin_Settings.php:124
+msgid " The button sends the user to the PayPal site for payment processors."
+msgstr "Butang menghantar pengguna ke tapak PayPal untuk pemproses pembayaran."
+
+#: bin/admin_templates/Admin_Settings.php:137
+msgid "The page for display needs to be blank with the created page using all page area."
+msgstr "Halaman untuk paparan perlu kosong dengan halaman yang dibuat menggunakan semua kawasan halaman."
+
+#: bin/admin_templates/Admin_Settings.php:138
+msgid "Allows the user to create and personalise the Gift Card Certificate wich is opened to the user on successful PayPal payment. The user is offered a choice of printing the Gift Certificate or e-mailing a printable copy to a designated e-mail account or both."
+msgstr "Membenarkan pengguna membuat dan memperibadikan Sijil Kad Hadiah yang dibuka kepada pengguna mengenai pembayaran PayPal yang berjaya. Pengguna ditawarkan pilihan mencetak Sijil Hadiah atau mengirim e-mel salinan yang dapat dicetak ke akaun e-mel yang ditetapkan atau kedua-duanya."
+
+#: bin/admin_templates/Admin_Settings.php:139
+msgid "This applications installing agent will need to set PayPals successful returning page to this run setting with the address of the makevoucher page"
+msgstr "Ejen memasang aplikasi ini perlu menetapkan halaman pemulangan PayPal berjaya ke tetapan jangka ini dengan alamat halaman makevoucher"
+
+#: bin/admin_templates/Admin_Settings.php:152
+msgid "the page will need to be nearly full screen size. There is a table created that will span full width with nine columns and rows to match stored data."
+msgstr "halaman itu perlu menjadi saiz skrin hampir penuh. Terdapat jadual yang dibuat yang akan merangkumi lebar penuh dengan sembilan lajur dan baris untuk memadankan data yang disimpan."
+
+#: bin/admin_templates/Admin_Settings.php:153
+msgid "Displays all usable data in the "
+msgstr "Memaparkan semua data yang boleh digunakan dalam"
+
+#: bin/admin_templates/Admin_Settings.php:153
+msgid " database table the page allows printing of selected records, deletion of selected record, or marking selected records of honoured redeemed gifts."
+msgstr "Jadual pangkalan data halaman ini membolehkan pencetakan rekod terpilih, penghapusan rekod terpilih, atau menandakan rekod terpilih hadiah-hadiah yang ditebus."
+
+#: bin/admin_templates/Admin_Settings.php:165
+msgid "Auto Created"
+msgstr "Dibuat secara Auto"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "This page remains invisible to the user and is only used for verification interaction between PayPal and this application."
+msgstr "Halaman ini tetap tidak dapat dilihat oleh pengguna dan hanya digunakan untuk interaksi pengesahan antara PayPal dan aplikasi ini."
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid " Once you fill in the information in this pages"
+msgstr "Sebaik sahaja anda mengisi maklumat di halaman ini"
+
+#: bin/admin_templates/Admin_Settings.php:166
+#: bin/admin_templates/Admin_Settings.php:167
+#: bin/admin_templates/Admin_Settings.php:185
+msgid "Personalised settings"
+msgstr "Tetapan peribadi"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "and press the"
+msgstr "dan tekan"
+
+#: bin/admin_templates/Admin_Settings.php:166
+#: bin/admin_templates/Admin_Settings.php:248
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "button a page is created called"
+msgstr "butang halaman dibuat dipanggil"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "that communicates with PayPals website"
+msgstr "yang berkomunikasi dengan laman web PayPals"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "The installation will require the setting up of a sellers management account with PayPal as well as setting the run setting with the address of "
+msgstr "Pemasangan akan memerlukan penubuhan akaun pengurusan penjual dengan PayPal serta menetapkan tetapan lari dengan alamat"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "copy"
+msgstr "salinan"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "as instructed in"
+msgstr "seperti yang diarahkan dalam"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid "The page named"
+msgstr "Halaman bernama"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid "can be of your own design the text on it should reflect your concerns about why the user cancelled the PayPal payment and your remedies to address there concerns. The text from the short code is"
+msgstr "boleh menjadi rekaan anda sendiri teks di atasnya harus mencerminkan kebimbangan anda tentang mengapa pengguna membatalkan pembayaran PayPal dan remedi anda untuk menangani masalah yang ada. Teks dari kod pendek adalah"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid " Sorry to hear that you cancelled if you had trouble please use our contact page to report to management"
+msgstr "Maaf untuk mendengar bahawa anda dibatalkan jika anda menghadapi masalah sila gunakan halaman hubungan kami untuk melaporkan kepada pihak pengurusan"
+
+#: bin/admin_templates/Admin_Settings.php:181
+msgid "you do not need the [sasnys_Cancelled] short code just the page name"
+msgstr "anda tidak memerlukan kod pendek [sasnys_Cancelled] hanya nama halaman"
+
+#: bin/admin_templates/Admin_Settings.php:181
+msgid "as is in lower Case."
+msgstr "seperti dalam kes yang lebih rendah."
+
+#: bin/admin_templates/Admin_Settings.php:182
+msgid "The page is a simple landing page to get the PayPal user back to your site. This is automatically recognised with PayPal via this application"
+msgstr "Halaman ini adalah halaman pendaratan mudah untuk mendapatkan kembali pengguna PayPal ke laman web anda. Ini secara automatik diiktiraf dengan PayPal melalui aplikasi ini"
+
+#: bin/admin_templates/Admin_Settings.php:187
+msgid "The place name for the gift voucher redemer EXAMPLE Kingston House Restaurant"
+msgstr "Nama tempat untuk baucer hadiah hadiah EXAMPLE Kingston House Restaurant"
+
+#: bin/admin_templates/Admin_Settings.php:188
+msgid "Gift Voucher Shop"
+msgstr "Kedai Baucer Hadiah"
+
+#: bin/admin_templates/Admin_Settings.php:192
+msgid "The shop front address for redemtion of voucher EXAMPLE 11 Channon Street Gympie QLD"
+msgstr "Alamat depan kedai untuk pengurangan baucer EXAMPLE 11 Channon Street Gympie QLD"
+
+#: bin/admin_templates/Admin_Settings.php:193
+msgid "Shop Address"
+msgstr "Kedai Alamat"
+
+#: bin/admin_templates/Admin_Settings.php:197
+msgid "A contact phone for assistance EXAMPLE PH:01 2345 6789"
+msgstr "Telefon kenalan untuk bantuan EXAMPLE PH: 01 2345 6789"
+
+#: bin/admin_templates/Admin_Settings.php:198
+msgid "Shop Phone Number"
+msgstr "Kedai Telefon Nombor"
+
+#: bin/admin_templates/Admin_Settings.php:202
+msgid "A notice for the benificary EXAMPLE Please pre-book"
+msgstr "Notis untuk EXAMPLE yang bermanfaat Sila buat pra-buku"
+
+#: bin/admin_templates/Admin_Settings.php:203
+msgid "Notification"
+msgstr "Pemberitahuan"
+
+#: bin/admin_templates/Admin_Settings.php:207
+msgid "EXAMPLE 6 months 0.5 years 182.6 days all equal the same time period"
+msgstr "CONTOH 6 bulan 0.5 tahun 182.6 hari semuanya bersamaan dengan tempoh masa yang sama"
+
+#: bin/admin_templates/Admin_Settings.php:208
+msgid "Voucher valid period"
+msgstr "Tempoh baucer sah"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "PayPal business Acct Id from"
+msgstr "Perniagaan Acct Id dari PayPal dari"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "Seler account ID"
+msgstr "ID akaun seler"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "on the paypal page"
+msgstr "pada halaman paypal"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "My profile"
+msgstr "Profil saya"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "after registering with PayPal"
+msgstr "selepas mendaftar dengan PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:221
+msgid "PayPal USER Acct E-MAIL which is your login name for PayPal"
+msgstr "PayPal USER Acct E-MAIL yang merupakan nama login anda untuk PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:222
+msgid "PayPal e-mail address"
+msgstr "Alamat e-mel PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:231
+#: bin/admin_templates/Admin_Settings.php:232
+#: bin/admin_templates/Admin_Settings.php:233
+#: bin/admin_templates/Admin_Settings.php:234
+msgid "The logo file width is stretched to 510 pixels while the height is limited to 75 pixels"
+msgstr "Lebar fail logo diregangkan hingga 510 piksel manakala ketinggiannya terhad kepada 75 piksel"
+
+#: bin/admin_templates/Admin_Settings.php:231
+msgid "Select your logo"
+msgstr "Pilih logo anda"
+
+#: bin/admin_templates/Admin_Settings.php:238
+msgid "E-Mail Security"
+msgstr "Keselamatan E-Mail"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "ssl ,tls or leave blank"
+msgstr "ssl, tls atau kosongkan"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "usually mail or smtp.emailaddress.com.au"
+msgstr "biasanya mel atau smtp.emailaddress.com.au"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "Email port"
+msgstr "Port e-mel"
+
+#: bin/admin_templates/Admin_Settings.php:243
+msgid "email Username"
+msgstr "e-mel Username"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "usually your email address"
+msgstr "biasanya alamat e-mel anda"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "Email password"
+msgstr "Kata laluan e-mel"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "your e-mail password"
+msgstr "kata laluan e-mel anda"
+
+#: bin/admin_templates/Admin_Settings.php:256
+msgid "PayPal integration details"
+msgstr "Butiran penggabungan PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:261
+msgid "When all is configuard above then the only thing left is to copy and paste these two statements to your payPal account"
+msgstr "Apabila semua ditegaskan di atas maka satu-satunya perkara yang tersisa ialah menyalin dan menampal kedua-dua penyataan ini ke akaun payPal anda"
+
+#: bin/admin_templates/Admin_Settings.php:266
+msgid "Statement one"
+msgstr "Kenyataan satu"
+
+#: bin/admin_templates/Admin_Settings.php:273
+msgid "Statement two"
+msgstr "Penyataan dua"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "After logging into your PayPal business account click the gear shaped icon top right."
+msgstr "Selepas log masuk ke akaun perniagaan PayPal anda klik ikon berbentuk gear atas kanan."
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "This exposes the"
+msgstr "Ini mendedahkan"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "Selling tools"
+msgstr "Alat jualan"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "link."
+msgstr "pautan."
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "the link shows you the"
+msgstr "pautan menunjukkan anda"
+
+#: bin/admin_templates/Admin_Settings.php:281
+msgid "Website preferences"
+msgstr "Pilihan laman web"
+
+#: bin/admin_templates/Admin_Settings.php:281
+msgid "update link. That link opens up to these dialogs. These are the default settings."
+msgstr "kemas kini pautan. Pautan itu membuka kepada dialog ini. Ini adalah tetapan lalai."
+
+#: bin/admin_templates/Admin_Settings.php:295
+msgid " Instant payment"
+msgstr "Pembayaran segera"
+
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "notifications update link. That link opens up to this dialog."
+msgstr "pautan kemas kini pemberitahuan. Pautan itu terbuka kepada dialog ini."
+
+#: bin/admin_templates/Admin_Settings.php:307
+msgid "If you need help click here"
+msgstr "Jika anda memerlukan bantuan klik di sini"
+
+#: bin/admin_templates/Admin_Settings.php:315
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - Cara yang lebih selamat dan mudah untuk membayar dalam talian!"
+
+#: bin/admin_templates/Admin_Settings.php:315
+msgid "Donate with PayPal button"
+msgstr "Dermakan dengan butang PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:318
+msgid "Make all this worth a value,donate to this app !"
+msgstr "Buat semua nilai ini bernilai, dermakan kepada aplikasi ini!"
+
+#: bin/admin_templates/SettingsLinks.php:15
+msgid "Settings"
+msgstr "Tetapan"
+
+#: bin/dsign/functions.php:204
+msgid "please find attached your Gift Voucher for "
+msgstr "sila dapatkan kupon Bau Hadiah anda"
+
+#: bin/dsign/functions.php:206
+msgid "The taxable value of this donation is $"
+msgstr "Nilai yang boleh dikenakan derma ini ialah $"
+
+#: bin/dsign/functions.php:208
+msgid "Payment made"
+msgstr "Bayaran telah dibuat"
+
+#: bin/dsign/functions.php:210
+msgid "please use this e-mail body as your receipt."
+msgstr "sila gunakan badan e-mel ini sebagai resit anda."
+
+#: bin/dsign/functions.php:212
+msgid "Thanking you"
+msgstr "Berterima kasih kepada awak"
+
+#: bin/dsign/functions.php:255
+msgid "To view the message, please use an HTML compatible email viewer!"
+msgstr "Untuk melihat mesej, sila gunakan pemapar e-mel yang serasi HTML!"
+
+#: bin/dsign/functions.php:376
+msgid "There is still processors on going Sorry halting page close if you really want to close prossesors please close the browser"
+msgstr "Masih ada pemproses untuk pergi Maaf halting halaman dekat jika anda benar-benar ingin menutup prosesor sila tutup penyemak imbas"
+
+#: bin/dsign/functions.php:384
+msgid "There is still processors on going Sorry halted page close if you really want to close prossesors please close the browser"
+msgstr "Masih ada pemproses untuk pergi Maaf laman terhenti menutup jika anda benar-benar ingin menutup prosesor sila tutup penyemak imbas"
+
+#: bin/dsign/functions.php:579
+msgid "The database is not accessable,"
+msgstr "Pangkalan data tidak dapat diakses,"
+
+#: bin/dsign/functions.php:579
+msgid " try later or get in contact with service@sasnys.net.au"
+msgstr "cuba kemudian atau berhubung dengan service@sasnys.net.au"
+
+#: bin/dsign/functions.php:676 bin/dsign/functions.php:721
+msgid "Print"
+msgstr "Cetak"
+
+#: bin/dsign/functions.php:677 bin/dsign/functions.php:722
+msgid "Delete"
+msgstr "Padam"
+
+#: bin/dsign/functions.php:678
+msgid "Redeemed"
+msgstr "Ditebus"
+
+#: bin/dsign/functions.php:680
+msgid "ID code"
+msgstr "Kod ID"
+
+#: bin/dsign/functions.php:681
+msgid "Gift Reciever"
+msgstr "Hadiah Reciever"
+
+#: bin/dsign/functions.php:682
+msgid "Payed by"
+msgstr "Dibayar oleh"
+
+#: bin/dsign/functions.php:683
+msgid "Expires on"
+msgstr "Luput pada"
+
+#: bin/dsign/functions.php:684
+msgid "Card Value"
+msgstr "Nilai Kad"
+
+#: bin/dsign/functions.php:702 bin/dsign/functions.php:720
+msgid "Process"
+msgstr "Proses"
+
+#: bin/dsign/functions.php:702
+msgid "Click to proceed with selection"
+msgstr "Klik untuk meneruskan pemilihan"
+
+#: bin/dsign/functions.php:702
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: bin/dsign/functions.php:702
+msgid "Click to cancel"
+msgstr "Klik untuk membatalkan"
+
+#: bin/dsign/functions.php:709
+msgid "Create Voucher Settings"
+msgstr "Buat Tetapan Baucer"
+
+#: bin/dsign/functions.php:717
+msgid "please wait unless you feel there is an error then close the browser"
+msgstr "sila tunggu kecuali anda merasakan terdapat ralat kemudian tutup penyemak imbas"
+
+#: bin/dsign/functions.php:718
+msgid "SGVC_wordwraper  str, columbs, str_break, code"
+msgstr "SGVC_wordwraper str, columbs, str_break, code"
+
+#: bin/dsign/functions.php:719
+msgid "There has been an error in accessing the data, Please contact Sasnys service please with this error"
+msgstr "Terdapat ralat dalam mengakses data, Sila hubungi perkhidmatan Sasnys dengan ralat ini"
+
+#: bin/dsign/functions.php:723
+msgid "Redeem"
+msgstr "Tebus"

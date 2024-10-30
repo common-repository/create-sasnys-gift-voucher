@@ -1,0 +1,160 @@
+Une carte cadeau spéciale pour quelqu'un de spécial
+nom des destinataires
+un nom à utiliser en tant que fournisseur du voucher
+Une erreur s'est produite lors de l'établissement d'une connexion à la base de données avec ce type d'erreur.
+s'il vous plaît téléphone
+Télécharger le bon
+aucune sélection
+Les processeurs de cartes-cadeaux sont terminés
+En vous remerciant pour votre personnalisation, cliquez sur le bouton pour télécharger votre bon ou revenez en arrière pour modifier votre carte-cadeau.
+Si vous avez des problèmes s'il vous plaît contacter
+Retourner à l'éditeur
+Les processeurs de cartes-cadeaux ont eu une erreur
+ s'il vous plaît contactez
+prendre note de l'heure
+pour référence à PayPal
+ cliquez sur le bouton pour fermer
+Fermer la page
+Page de conception de certificats-cadeaux
+Vous avez réussi à accéder à la page de conception.
+Doué pour
+Valeur de $
+Doué de
+date d'expiration
+nom de code
+Le nom du destinataire à mettre sur le certificat
+De nom
+Nom préféré
+Date d'expiration de la carte-cadeau
+Valeur de la carte-cadeau
+Numéro de code de la carte-cadeau
+Votre adresse email
+Veuillez entrer une adresse e-mail à laquelle envoyer le pdf attaché
+L'e-mail acct pour transférer le certificat pour l'impression
+Texte pour carte cadeau
+vous pouvez ajouter ou modifier n'importe quel texte dans cette zone
+sélection des sentinelles appropriées à choisir et / ou changer
+Exemple de texte
+Au meilleur papa du monde
+À la meilleure maman du monde
+Au meilleur nanna du monde
+Au meilleur pop du monde
+Pour un travail bien fait
+C'est notre anniversaire
+Juste parce que vous le méritez
+Soumettre pour impression
+Créer un email avec pièce jointe
+Télécharger depuis le navigateur
+Tous les deux
+Sélectionnez un cadre pour la carte-cadeau
+Sélectionnez une bordure
+Êtes-vous prêt à imprimer la carte-cadeau au format PDF et à l’envoyer à
+Êtes-vous prêt à télécharger un fichier PDF de la carte-cadeau?
+Êtes-vous prêt à imprimer la carte-cadeau au format PDF
+et le poster à
+ainsi que le téléchargement d'une copie?
+Modifier retour
+Désolé d'entendre que vous avez annulé. Si vous rencontrez des difficultés, veuillez utiliser notre page de contact pour en informer la direction.
+Bon La période de validité doit être un nombre
+Wordpress Codes courts
+Conception de format de page suggéré
+Description des processeurs
+Créez une page axée sur les ventes avec une petite section pour contenir un tableau de trois lignes et une colonne. La taille réelle de l'insert est affichée ici. La couleur de fond est transparente et le texte est blanc
+Entrez la valeur
+Crée un lien vers la base de données wordpress, puis crée automatiquement une table de base de données appelée
+ Le bouton envoie l'utilisateur sur le site PayPal pour les processeurs de paiement.
+La page à afficher doit être vierge avec la page créée en utilisant toute la zone de page.
+Permet à l'utilisateur de créer et de personnaliser le certificat de carte-cadeau qui lui est ouvert en cas de paiement réussi par PayPal. L'utilisateur a le choix d'imprimer le chèque-cadeau ou d'envoyer une copie imprimable par courrier électronique à un compte de messagerie désigné ou aux deux.
+Cet agent d’installation d’applications devra définir la page de renvoi réussi de PayPals sur ce paramètre d’exécution avec l’adresse de la page makevoucher.
+la page devra être en plein écran. Une table a été créée pour couvrir toute la largeur avec neuf colonnes et lignes pour correspondre aux données stockées.
+Affiche toutes les données utilisables dans le
+ table de base de données, la page permet d’imprimer les enregistrements sélectionnés, de supprimer des enregistrements sélectionnés ou de marquer les enregistrements sélectionnés de cadeaux échangés honorés.
+Créé automatiquement
+Cette page reste invisible pour l'utilisateur et n'est utilisée que pour l'interaction de vérification entre PayPal et cette application.
+ Une fois que vous remplissez les informations dans ces pages
+Paramètres personnalisés
+et appuyez sur le
+Sauvegarder les modifications
+bouton une page est créée appelée
+qui communique avec le site Web PayPals
+L'installation nécessitera la création d'un compte de gestion des vendeurs avec PayPal, ainsi que la définition du paramètre d'exécution avec l'adresse de
+copie
+comme indiqué dans
+La page nommée
+peut être de votre propre conception, le texte doit refléter vos préoccupations quant à la raison pour laquelle l'utilisateur a annulé le paiement PayPal et vos solutions pour y remédier. Le texte du code court est
+ Désolé d’annuler votre annulation si vous rencontrez des problèmes, veuillez utiliser notre page de contact pour en informer la direction.
+vous n'avez pas besoin du code abrégé [sasnys_Cancelled] mais uniquement du nom de la page
+comme c'est le cas en minuscule.
+La page est une simple page de destination permettant à l'utilisateur de PayPal de revenir sur votre site. Ceci est automatiquement reconnu avec PayPal via cette application
+Le nom de lieu pour le bon de réduction cadeau EXEMPLE Kingston House Restaurant
+Boutique de bons cadeaux
+Adresse de la boutique pour la redistribution du bon EXEMPLE 11, rue Channon, Gympie QLD
+Adresse de la boutique
+Un téléphone de contact pour obtenir de l'aide EXEMPLE PH: 01 2345 6789
+Numéro de téléphone de la boutique
+Un avis pour le Bénéficiaire EXEMPLE Merci de réserver à l'avance
+Notification
+EXEMPLE 6 mois 0,5 an 182,6 jours correspondent tous à la même période
+Période de validité du voucher
+PayPal Business Identifiant de compte
+ID de compte Seler
+sur la page paypal
+Mon profil
+après s'être inscrit à PayPal
+PayPal USER Acct E-MAIL qui est votre nom d'utilisateur pour PayPal
+Adresse e-mail Paypal
+La largeur du fichier du logo est étirée à 510 pixels alors que la hauteur est limitée à 75 pixels
+Sélectionnez votre logo
+Sécurité du courrier électronique
+ssl, tls ou laisser en blanc
+généralement mail ou smtp.emailaddress.com.au
+Port de messagerie
+email Nom d'utilisateur
+généralement votre adresse email
+Mot de passe de l'email
+votre mot de passe e-mail
+Détails de l'intégration PayPal
+Quand tout est configuard ci-dessus alors il ne reste plus qu'à copier et coller ces deux déclarations sur votre compte payPal
+Première déclaration
+Déclaration deux
+Une fois connecté à votre compte professionnel PayPal, cliquez sur l'icône en forme d'engrenage en haut à droite.
+Cela expose le
+Outils de vente
+lien.
+le lien vous montre la
+Préférences du site
+lien de mise à jour. Ce lien ouvre à ces dialogues. Ce sont les paramètres par défaut.
+ Paiement instantané
+lien de mise à jour des notifications. Ce lien ouvre cette boîte de dialogue.
+Si vous avez besoin d'aide, cliquez ici
+PayPal - Le moyen le plus sûr et le plus facile de payer en ligne!
+Faire un don avec le bouton PayPal
+Faites en sorte que tout cela vaille une valeur, faites un don à cette application!
+Réglages
+Veuillez trouver ci-joint votre bon cadeau pour
+La valeur imposable de ce don est de $
+Paiement effectué
+veuillez utiliser le corps de cet e-mail comme reçu.
+En vous remerciant
+Pour afficher le message, veuillez utiliser une visionneuse de courrier électronique compatible HTML!
+Il y a encore des processeurs en cours. Désolé d'arrêter la fermeture de la page si vous voulez vraiment fermer les prossesors, fermez le navigateur.
+Il y a encore des processeurs en cours. Désolé si la page a été arrêtée si vous voulez vraiment fermer les acheteurs, fermez le navigateur.
+La base de données n'est pas accessible,
+ essayez plus tard ou contactez service@sasnys.net.au
+Impression
+Effacer
+Racheté
+code d'identification
+Receveur de cadeaux
+Payé par
+Expire le
+Valeur de la carte
+Processus
+Cliquer pour procéder à la sélection
+Annuler
+Cliquez pour annuler
+Créer les paramètres du coupon
+veuillez patienter, sauf si vous pensez qu'il y a une erreur, fermez le navigateur.
+SGVC_wordwraper str, columbs, str_break, code
+Une erreur est survenue lors de l'accès aux données. Veuillez contacter le service Sasnys.
+Racheter

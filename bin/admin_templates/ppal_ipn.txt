@@ -1,0 +1,202 @@
+<?php
+        function SGVC_htmldump($variable, $height="9em") {
+            $ABSURL= dirname(__FILE__);
+            $ABSURL=  rtrim($ABSURL,chr(47)).chr(47);
+           if($height==123){
+            $curfile = $ABSURL."Error_log.txt" ;
+             $transit = fopen($curfile,'ab');
+             $ret =fwrite($transit,$variable.PHP_EOL);
+             fclose($transit);
+           }elseif($height==321){ 
+             $curfile = $ABSURL."giftcard.html" ;
+             $transit = fopen($curfile,'wb');
+             $ret =fwrite($transit,$variable.PHP_EOL);
+             fclose($transit);    
+           }else{
+
+            echo "<pre style=\" border: 2px dotted #D3B169; height: {$height}; overflow: auto; margin: 0.5em;\">";
+                print_r($variable);
+            echo "</pre>\n";    
+            } }
+            
+         function SGVC_sasnysnet($dt,$valud){
+       $isnot=array("."," ","-","_","@"); $isnow=array("","","","","");$enumerate=0;
+       str_replace($isnot,$isnow,$valud,$enumerate);
+       if($enumerate==0){
+       if($dt){
+        return strtoupper(base_convert($valud,16,33)) ;   
+       }else{
+         return strtoupper(base_convert($valud,33,16)) ;  
+       }}else{return "00000000";}
+       
+   } 
+   
+echo "   <!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN'>
+<html>
+<head>                                                   
+<meta http-equiv='Expires' content='Fri, Jan 01 1900 00:00:00 GMT'>
+<meta http-equiv='Pragma' content='no-cache'>
+<meta http-equiv='Cache-Control' content='no-cache'> 
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<meta http-equiv='Lang' content='en'>
+<meta name='author' content='Robert Dwight'> 
+<meta name='generator' content='PhpED 9.1'>
+<meta name='description' content='Sasnys'>
+<meta name='keywords' content='sasnys,gift,card'> 
+<meta name='revisit-after' content='15 days'>                          
+ <title>SaSNyS Safe and Secure Networking your Systems</title>
+ </head>
+ <body> ";
+
+ $sasnysrecvr = 'seriahreceml';
+ $sasnysusrpp = 'seriahppalid';
+ $sasnystmzn = 'seriahcurzone';
+ $sasnysmngemail='seriahnotifyeml';
+ $sasnystranspath='';
+ $sasnys_idis='/sasnys_pp_ipn.php';
+ $socer = 'www.paypal.com';   
+    
+ $sasnysdatup[0]='serlocalseriah';$sasnysdatup[1]='seruserseriah';$sasnysdatup[2]='serpassseriah';$sasnysdatup[3]='serdbaseseriah';
+     
+error_reporting(E_ALL);
+
+try{                                         
+        $sasnyspriceval=0;
+         $postdata = 'POSTDATA: ';
+        $req      = 'cmd=_notify-validate';
+$SGVC_formarr=array('not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set','not-set');   $payment_status='';    $receiver_email='';   $AccumInfo= PHP_EOL.'Echo-not INFORMATION copy'.PHP_EOL;
+if (! empty( $_GET ) ){$ThisVar = $_GET;}else{$ThisVar = $_POST;}
+foreach ($ThisVar as $key => $value)
+{
+         $values = preg_replace('/(.*[^%^0^D])(%0A)(.*)/i', '${1}%0D%0A${3}', $value); 
+         $keys = preg_replace('/(.*[^%^0^D])(%0A)(.*)/i', '${1}%0D%0A${3}', $key);     
+         $values=trim($values,chr(0));
+         $keys=trim($keys,chr(0));
+
+           if($keys=='mc_gross'){ $sasnyspriceval = intval(trim($values));}
+       if($keys=='payment_status'){if(trim($value)!=='Completed'){ $req='';}}
+         if($keys=='item_name'){ $SGVC_formarr[12] = trim($values);}
+         if($key=='mc_currency'){if(trim($value)!=='AUD'){ $req='';}}   
+          if($keys=='cm'){ $dataCustom=trim($values);}
+          if($keys=='payer_email'){ $SGVC_formarr[8]=trim($values);}
+          if($keys=='last_name'){ $SGVC_formarr[11]=trim($values);}
+          if($keys=='first_name'){ $SGVC_formarr[10]=trim($values);} 
+          if($keys=='receiver_id'){ $SGVC_formarr[13]=trim($values);} 
+          if($keys=='custom'){ $SGVC_formarr[7]=trim(html_entity_decode($values,ENT_QUOTES));$SGVC_formarr[7]=SGVC_sasnysnet(0,$SGVC_formarr[7]);
+          } 
+          if($keys=='payment_status'){ $payment_status=trim($values);} 
+          if($keys=='receiver_email'){ $receiver_email=trim($values);}   
+        $values    = urlencode(stripslashes($values));    
+        $req.= '&'.$keys.'='.$values;             
+}
+
+    $SGVC_formarr[5] = $SGVC_formarr[10].' '.$SGVC_formarr[11] ;
+
+$AccumInfo .= PHP_EOL . $req;
+    if (strtolower($receiver_email) != strtolower($sasnysrecvr))
+    {
+        $AccumInfo .= PHP_EOL . 'ERROR RECEIVER EMAIL: '.$receiver_email;
+        $SGVC_formarr[7]='not-set';
+    }
+  
+    if($SGVC_formarr[13]!=$sasnysusrpp){
+  $AccumInfo .= PHP_EOL . 'ERROR RECEIVER ID: '.$SGVC_formarr[13];
+       $SGVC_formarr[13]='not-set';       
+        
+    }
+if(($SGVC_formarr[7]!='not-set') && ($SGVC_formarr[13]!='not-set')) {                                            
+$header = NULL;
+$header .= 'POST /cgi-bin/webscr HTTP/1.0\r\n';
+$header .= 'Content-Type: application/x-www-form-urlencoded\r\n';
+$header .= 'Content-Length: ' . strlen($req) . '\r\n\r\n';
+$fp = fsockopen ($socer, 80, $errno, $errstr, 30);
+
+                            
+if (!$fp)
+{                      
+    $AccumInfo .= PHP_EOL . 'IPN HTTP ERROR fsockopen failed';
+    $AccumInfo .= PHP_EOL . 'ERRNO='.$errno;
+    $AccumInfo .= PHP_EOL . 'ERRSTR='.$errstr;
+}
+else
+{                                               
+    $nwrit = fputs ($fp, $header . $req);
+}
+$AccumInfo .= PHP_EOL . 'FPUTS() WROTE '.$nwrit.' BYTES';
+         
+while (!feof($fp))
+{                                  
+    $paypal_reply    = fgets ($fp, 1024);     
+   
+                                                                 
+if (strcmp ($paypal_reply, 'VERIFIED') == 0)
+{
+    
+     $AccumInfo .= PHP_EOL . 'ERROR VERIFIED: '.$paypal_reply;
+}
+    if ($payment_status != 'Completed')
+    {
+        $AccumInfo .= PHP_EOL . 'ERROR PAYMENT STATUS: '.$payment_status;
+    }
+
+                               
+  } 
+  
+   $DBServer = mysqli_connect($sasnysdatup[0],$sasnysdatup[1],$sasnysdatup[2],$sasnysdatup[3]); 
+    if (mysqli_errno($DBServer))  {
+        $iError = mysqli_error($DBServer);
+        SGVC_htmldump("Dbase error 1 > ".$iError,123) ;
+    }
+    $giver_name   = $SGVC_formarr[5];
+    $item_name   =$SGVC_formarr[12].$SGVC_formarr[7].'.pdf';
+    $payer_email =$SGVC_formarr[8];
+   
+    $custom  = $SGVC_formarr[7];
+     $datetoday = date_create('now', timezone_open($sasnystmzn)); 
+       $addDis='seriahvalids';
+       if($addDis!=="P0D")  {
+       $difDay = new DateInterval($addDis);    
+       $date =date_add($datetoday,$difDay);
+       $SGVC_formarr[6]= date_format($date, 'D, j F Y'); 
+       } else{$SGVC_formarr[6]="non expiry";}
+         
+      $sqlSTR = "UPDATE seriahvouchers  SET inreceiver='$SGVC_formarr[4]',giver= '$SGVC_formarr[5]',enum6m='$SGVC_formarr[6]',valueprice= '$sasnyspriceval',emaddr='$payer_email',item_name= '$item_name',postdata='$AccumInfo' WHERE codehexis = '$custom'";  
+                
+     $useRES = mysqli_query($DBServer,$sqlSTR);                 //     //   t3   
+     $iError =$useRES;  
+     
+     if (mysqli_errno($DBServer))  {
+      $iError = mysqli_error($DBServer);
+      SGVC_htmldump("Dbase error 2 > ".$iError,123) ;
+     }  
+  $AccumInfo .= PHP_EOL . $sqlSTR. PHP_EOL . ' Update Result :-'.$iError;
+    
+ /* */  
+          mysqli_close($DBServer);   }                             
+$msg = 'IPN MESSAGES: ' .$AccumInfo;     ob_get_clean() ;
+$headersmail = 'From: '.$sasnysmngemail . PHP_EOL;
+$headersmail.="Reply-To: ".$sasnysrecvr .  PHP_EOL;
+$headersmail.="Return-Path: ".$sasnysrecvr .  PHP_EOL;
+$headersmail.="MIME-Version: 1.0". PHP_EOL;
+$headersmail.="Content-Type: text/html; charset=ISO-8859-1". PHP_EOL;
+$headersmail.="X-Priority: 3". PHP_EOL;
+$headersmail.='Reply-To: '.$sasnysmngemail . PHP_EOL;
+$headersmail.='X-Mailer: PHP/' . phpversion();    
+   
+$coreis = mail($sasnysrecvr, 'IPN-DATA', $msg,$headersmail);
+if(!$coreis) {
+ SGVC_htmldump("coreis > ".$coreis. PHP_EOL." headersmail > ".$headersmail. PHP_EOL." msg >".$msg. PHP_EOL,123) ;   
+}
+}catch (Exception $e) {
+
+    $msg = 'Caught SGVC_verifyTransaction: '.$e->getMessage();    
+    SGVC_htmldump($msg,123) ; ob_get_clean() ;
+$headersmail = 'From: '.$sasnysmngemail . PHP_EOL. 'Reply-To: '.$sasnysmngemail. PHP_EOL . 'X-Mailer: PHP ' . phpversion();
+$msg = SGVC_wordwrap($msg, 70, PHP_EOL);
+$coreis= mail($sasnysrecvr, 'IPN-DATA', $msg,$headersmail);
+SGVC_htmldump("coreis > ".$coreis. PHP_EOL." headersmail > ".$headersmail. PHP_EOL." msg >".$msg. PHP_EOL,123) ; 
+
+        }  
+      
+  
+echo "</body></html>"; ?>

@@ -1,0 +1,216 @@
+@font-face {
+		font-family: Tangerine;
+		src: url('../../fonts/Tangerine-Bold.eot');
+		src: local(Tangerine), url('../../fonts/Tangerine-Bold.woff') format('woff'),url('../../fonts/Tangerine-Bold.afm'), url('../../fonts/Tangerine-Bold.ttf') format('truetype');
+	}
+@page { margin: 2cm 0 1cm !important ; size: 29.7cm 21cm;}
+#moses{
+  font-family: Tangerine !important;
+   cursor: default !important;
+}
+
+.mosetes{
+   font-family: Tangerine !important;
+
+}
+#vouchtable{
+   font-family: Tangerine !important;
+   font-size: 24px;
+   cursor: default !important;
+
+}
+
+#butsub{
+font-size: large;
+}
+
+a {
+
+}
+
+
+a:hover {
+}
+
+ .sizemore{
+	  font-family: "Times New Roman", Times, serif;
+	  font-size:medium;
+ }
+
+ .tablenoborders{
+	 border:none;
+	 border-spacing: 0;
+	 padding:0px 0px 0px 0px;
+	 margin-bottom:0px;
+
+ }
+.fstcol{
+	color:red;
+	font-size:22px;
+	font-weight: bold;
+}
+.sndcol{
+	color:maroon;
+	font-weight: bolder;
+	font-size:18px;
+}
+#savedchge{
+	background-color:#B79F3B;
+	color: white;
+	border-style: ridge;
+}
+.tablemakeIS{
+	font-family: Tangerine;
+	font-size:22px;
+	background-color:#E8F7F7;
+
+	 border-spacing: 0 !important;
+	 padding:0px 0px 0px 0px !important;
+	 margin-bottom:0px !important;
+	 margin-top:0px !important;
+	 border-color: #E8F7F7 !important;
+
+}
+
+.tonothing{
+	position:relative
+}
+#sasjobtable{
+	border:0;
+	left:1px;
+	width:1320px;
+	top:1px;
+	position: absolute;
+	@media all { table { page-break-after:avoid }
+	tr { page-break-before:auto; page-break-after:auto }
+	td { page-break-inside:avoid; page-break-after:avoid }
+	.page-break    { display:inline-table }}
+
+}
+#makesettings{
+	font-family: Tangerine;
+	font-size: 20px;
+}
+#sermoviehouseid{
+	position: absolute;
+	right:210px;
+	height:350px;
+	width:410px;
+	top:900px;
+	display:none !important;
+}
+
+
+.iframe-container{
+ position: relative;
+ width: 100%;
+display:none !important;
+}
+.iframe-container iframe{
+ position: absolute;
+ top:0;
+ left: 0;
+width:560px ;
+height:415px
+}
+
+.idPayPalHowTo{
+	 position: absolute;
+bottom:625px;
+right:610px;
+display:none !important;
+}
+.idPayPalHowTo iframe{
+ position: absolute;
+ top:0;
+ left: 0;
+width:560px ;
+height:315px
+}
+#redding{
+	color:#FDFBEE;
+	font-weight: bolder;
+	font-size: 24px;
+	text-shadow:-1px -1px #ffffff;
+}
+.blueprt{
+	color:#000000;
+	font-weight: bolder;
+	font-size: 18px;
+   text-shadow:1px 1px 2px  #FFFFFF;
+}
+#greening{
+	color:#339999;
+	font-weight: bolder;
+	font-size: 24px;
+	user-select:text;
+	text-shadow:1px 1px 2px  #000000;
+
+}
+#pinkinging{
+	color:#FFC0FF;
+	font-weight: bolder;
+	font-size: 24px;
+	user-select:text;
+	text-shadow:1px 1px 2px #000000;
+}
+.shadowd{
+	color:#B79F3B;
+	font-size:32px;
+
+	 text-shadow:2px 2px 2px #000000;
+}
+#donuts{
+	position:absolute;
+	bottom:1350px;
+	left:500px
+}
+.size2{
+	font-size: 18px;
+	font-family: "Times New Roman";
+	font-weight: bolder;
+	 text-shadow:2px 2px 2px #ff0000;
+}
+.readimprtant{
+	color:white;
+	font-family: "Times New Roman";
+	font-size: 18px;
+	 font-weight: bolder;
+	  text-shadow:0px 0px 6px 6px #00999f;
+}
+.optionslist{
+	font-family: "Times New Roman";
+	font-size: 14px;
+}
+.makebigger{
+  font-family: Tangerine;
+   font-size: 26px;
+}
+.heading2{
+	 font-family: Tangerine;
+	font-size: 36px;
+	color: #800000;
+	font-weight: bolder;
+}
+.bigbutt{
+	background-color:#00999f;
+	color:white;
+	font-family: "Times New Roman";
+	font-size: xx-large;
+	height:42px;
+	width:184px;
+}
+.bigbutt2{
+	background-color:#00999f;
+	color:white;
+	font-family: "Times New Roman";
+	font-size:large;
+	height:42px;
+	width:184px;
+}
+.makeclearer{
+  position: relative;
+  font-family: "Times New Roman";
+  top:600px;
+  font-size:18px;
+}

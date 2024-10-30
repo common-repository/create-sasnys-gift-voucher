@@ -1,0 +1,160 @@
+Specjalna karta podarunkowa dla kogoś wyjątkowego
+imię odbiorcy
+nazwa, która ma być używana jako dostawca kuponu
+Wystąpił błąd podczas nawiązywania połączenia z bazą danych z tego rodzaju błędem
+proszę Telefon
+Pobierz kupon
+żaden nie został wybrany
+Procesory kart upominkowych zostały zakończone
+Dziękując za niestandardowe kliknięcie przycisku, aby pobrać kupon lub wrócić do edycji karty upominkowej
+Jeśli masz jakiekolwiek problemy, skontaktuj się z nami
+Wróć do edytora
+Procesory kart upominkowych miały błąd
+ proszę o kontakt
+biorąc pod uwagę czas
+za odesłanie do PayPal
+ kliknij przycisk, aby zamknąć
+Zamknij stronę
+Strona projektu certyfikatu upominkowego
+Udało Ci się przejść do strony projektu
+Obdarzony
+Wartość $
+Obdarowany
+Data wygaśnięcia
+kryptonim
+Nazwa odbiorcy do umieszczenia na certyfikacie
+Z nazwy
+Preferowana Nazwa
+Data ważności karty upominkowej
+Wartość karty upominkowej
+Numer kodu karty upominkowej
+Twój adres email
+Wprowadź adres e-mail, aby wysłać załączony plik PDF do
+Wiadomość e-mail przekazuje certyfikat do drukowania
+Tekst na kartę podarunkową
+możesz dodać lub zmienić dowolny tekst w tym obszarze
+wybór odpowiednich wyroków do wyboru lub zmiany
+Przykładowy tekst
+Do najlepszego taty na świecie
+Do najlepszej mamy na świecie
+Do najlepszej nanny na świecie
+Do najlepszego popu na świecie
+Za dobrze wykonaną pracę
+To nasza rocznica
+Tylko dlatego, że na to zasługujesz
+Prześlij do druku
+Utwórz wiadomość e-mail z załącznikiem
+Pobierz z przeglądarki
+Obie
+Wybierz ramkę dla karty upominkowej
+Wybierz obramowanie
+Czy jesteś gotowy wydrukować kartę podarunkową w pliku PDF i wysłać ją pocztą elektroniczną
+Czy jesteś gotowy, aby pobrać plik PDF karty upominkowej?
+Czy jesteś gotowy wydrukować kartę podarunkową do pliku PDF
+i wyślij go pocztą
+a także pobieranie kopii?
+Zmień, wróć
+Przepraszamy za to, że odwołałeś. w razie problemów skorzystaj z naszej strony kontaktowej, aby zgłosić się do kierownictwa.
+Voucher Ważny okres musi być liczbą
+Krótkie kody Wordpress
+Proponowany format strony
+Opis procesorów
+Utwórz stronę zorientowaną na sprzedaż z małą sekcją do przechowywania tabeli trzech wierszy i jednej kolumny, gdzie pokazany jest rzeczywisty rozmiar wstawki. Kolor tła jest przezroczysty, a tekst jest biały
+Wprowadź wartość
+Tworzy łącze do bazy danych wordpress, a następnie automatycznie tworzy tabelę bazy danych o nazwie
+ Przycisk wysyła użytkownika do witryny PayPal dla procesorów płatności.
+Strona do wyświetlenia musi być pusta dla utworzonej strony przy użyciu całego obszaru strony.
+Pozwala użytkownikowi na utworzenie i personalizację certyfikatu karty podarunkowej, który jest otwarty dla użytkownika po pomyślnej płatności PayPal. Użytkownik ma możliwość wyboru drukowania bonu upominkowego lub wysłania pocztą elektroniczną kopii do wydrukowania na wyznaczone konto e-mail lub oba.
+Ten agent instalacyjny aplikacji będzie musiał ustawić stronę powracającego PayPals na to ustawienie uruchomienia z adresem strony makevouchera
+strona musi mieć prawie pełny rozmiar ekranu. Stworzona jest tabela, która obejmie całą szerokość dziewięciu kolumn i wierszy, aby dopasować przechowywane dane.
+Wyświetla wszystkie użyteczne dane w
+ tabela bazy danych strona umożliwia wydruk wybranych rekordów, usunięcie wybranego rekordu lub zaznaczenie wybranych rekordów honorowanych, odkupionych prezentów.
+Auto utworzone
+Ta strona pozostaje niewidoczna dla użytkownika i służy tylko do weryfikacji interakcji między PayPal a tą aplikacją.
+ Po wypełnieniu informacji na tych stronach
+Ustawienia spersonalizowane
+i naciśnij
+Zapisz zmiany
+przycisk tworzona jest strona o nazwie
+który komunikuje się ze stroną PayPals
+Instalacja będzie wymagała utworzenia konta zarządzania sprzedawcami w systemie PayPal, a także ustawienia uruchomienia z adresem
+Kopiuj
+zgodnie z instrukcją
+Strona o nazwie
+może być według własnego projektu tekst na nim powinien odzwierciedlać obawy dotyczące przyczyn, dla których użytkownik anulował płatność PayPal i środki zaradcze w celu rozwiązania problemów. Tekst z krótkiego kodu to
+ Przepraszamy za to, że anulowałeś, jeśli masz problemy, skorzystaj z naszej strony kontaktowej, aby zgłosić się do kierownictwa
+nie potrzebujesz krótkiego kodu [sasnys_Cancelled] tylko nazwę strony
+jak w przypadku niższym.
+Strona jest prostą stroną docelową, dzięki której użytkownik PayPal powróci do Twojej witryny. Jest to automatycznie rozpoznawane w systemie PayPal za pośrednictwem tej aplikacji
+Nazwa miejsca na kupon podarunkowy EXAMPLE Kingston House Restaurant
+Sklep z bonami upominkowymi
+Adres sklepu dla redemtionu vouchera PRZYKŁAD 11 Gymon Street Gympie QLD
+Adres sklepu
+Telefon kontaktowy do pomocy PRZYKŁAD PH: 01 2345 6789
+Kup numer telefonu
+Powiadomienie o korzystnym PRZYKŁADZIE Proszę dokonać wstępnej rezerwacji
+Powiadomienie
+PRZYKŁAD 6 miesięcy 0,5 roku 182,6 dni wszystkie są równe temu samemu okresowi czasu
+Kupon ważny okres
+Identyfikator Acct firmy PayPal z
+Wybierz identyfikator konta
+na stronie paypal
+Mój profil
+po rejestracji w PayPal
+PayPal USER Acct E-MAIL, który jest Twoim loginem do PayPal
+Adres email w PayPal
+Szerokość pliku logo jest rozciągnięta do 510 pikseli, podczas gdy wysokość jest ograniczona do 75 pikseli
+Wybierz swoje logo
+Zabezpieczenia poczty e-mail
+ssl, tls lub pozostaw puste
+zwykle mail lub smtp.emailaddress.com.au
+Port e-mail
+Nazwa użytkownika e-mail
+zazwyczaj twój adres e-mail
+Email Hasło
+twoje hasło e-mail
+Szczegóły integracji PayPal
+Gdy wszystko jest skonfigurowane powyżej, jedyne, co pozostało, to skopiowanie i wklejenie tych dwóch instrukcji do konta payPal
+Oświadczenie pierwsze
+Oświadczenie dwa
+Po zalogowaniu się na konto firmowe PayPal kliknij ikonę koła zębatego w prawym górnym rogu.
+To obnaża
+Narzędzia do sprzedaży
+połączyć.
+link pokazuje
+Preferencje strony
+link aktualizacji. To łącze otwiera się na te okna dialogowe. Są to ustawienia domyślne.
+ Natychmiastowa płatność
+łącze aktualizacji powiadomień. Ten link otwiera się do tego okna dialogowego.
+Jeśli potrzebujesz pomocy, kliknij tutaj
+PayPal - bezpieczniejszy i łatwiejszy sposób płatności online!
+Przekaż darowiznę za pomocą przycisku PayPal
+Spraw, by to wszystko było warte swojej wartości, wpłać do tej aplikacji!
+Ustawienia
+załącz załączony bon podarunkowy na
+Podatkowa wartość tej darowizny wynosi $
+Płatność dokonana
+użyj tego e-maila jako potwierdzenia.
+Dziękując Tobie
+Aby wyświetlić wiadomość, użyj przeglądarki poczty kompatybilnej z HTML!
+Nadal działają procesory Przepraszamy, zamknięcie strony, jeśli naprawdę chcesz zamknąć prossery, zamknij przeglądarkę
+Nadal działają procesory Przepraszam za zamknięcie strony, jeśli naprawdę chcesz zamknąć prossesory, zamknij przeglądarkę
+Baza danych nie jest dostępna,
+ spróbuj później lub skontaktuj się z service@sasnys.net.au
+Wydrukować
+Kasować
+Odkupiony
+Kod identyfikacyjny
+Odbiorca upominków
+Zapłacony przez
+Upływa w dniu
+Wartość karty
+Proces
+Kliknij, aby kontynuować wybór
+Anuluj
+Kliknij, aby anulować
+Utwórz ustawienia kuponu
+proszę czekać, chyba że uważasz, że wystąpił błąd, a następnie zamknij przeglądarkę
+SGVC_wordwraper str, columbs, str_break, kod
+Wystąpił błąd w dostępie do danych. Prosimy o kontakt z serwisem Sasnys, prosząc o ten błąd
+Wykupić

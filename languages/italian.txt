@@ -1,0 +1,160 @@
+Una carta regalo speciale per qualcuno di speciale
+nome dei destinatari
+un nome da utilizzare come fornitore del voucher
+C'è stato un errore nello stabilire una connessione al database con questo tipo di errore
+per favore telefono
+Scarica il voucher
+Nessuno selezionato
+I processori di carte regalo sono finiti
+Ringraziandoti per la tua personalizzazione fai clic sul pulsante per scaricare il voucher o tornare a modificare la tua carta regalo
+In caso di problemi si prega di contattare
+Torna all'editor
+I processori di carte regalo hanno avuto un errore
+ si prega di contattare
+prendendo nota del tempo
+per referenza a PayPal
+ fare clic sul pulsante per chiudere
+Chiudi la pagina
+Pagina di design del buono regalo
+Sei riuscito a navigare fino alla pagina di design
+Dotato di
+Valore di $
+Dotato di
+data di scadenza
+nome in codice
+I destinatari chiamano per mettere su certificato
+Dal nome
+Nome Preferito
+Data di scadenza della carta regalo
+Valore della Gift Card
+Numero di codice della carta regalo
+Il tuo indirizzo di posta elettronica
+Si prega di inserire un indirizzo e-mail per inviare pdf allegato a
+L'e-mail acct per inoltrare il certificato per la stampa
+Testo per buono regalo
+puoi aggiungere o modificare qualsiasi testo in quest'area
+selezione di sentinelle adatte per scegliere eo cambiare
+Testo di esempio
+Per il miglior papà del mondo
+Alla migliore mamma del mondo
+Alla migliore nanna del mondo
+Al miglior pop del mondo
+Per un lavoro ben fatto
+È il nostro anniversario
+Solo perché te lo meriti
+Invia per la stampa
+Crea una email con allegato
+Scarica dal browser
+Tutti e due
+Seleziona una cornice per la carta regalo
+Seleziona un bordo
+Sei pronto per stampare la Gift card in un PDF e spedirla a
+Sei pronto per scaricare un file PDF della Gift Card?
+Sei pronto per stampare la carta regalo in un PDF
+e spediscilo a
+oltre a scaricare una copia?
+Modifica torna indietro
+Mi dispiace sapere che hai cancellato. se hai avuto problemi, ti preghiamo di utilizzare la nostra pagina di contatto per segnalare alla direzione.
+Voucher Il periodo valido deve essere un numero
+Codici brevi Wordpress
+Pagina proposta design in formato
+Descrizione dei processori
+Crea una pagina orientata alle vendite con una piccola sezione per contenere una tabella di tre righe e una colonna qui viene mostrata la dimensione effettiva dell'inserto. Il colore di sfondo è trasparente e il testo è bianco
+Immettere il valore
+Crea un collegamento al database wordpress e crea automaticamente una tabella di database chiamata
+ Il pulsante invia l'utente al sito PayPal per i processori di pagamento.
+La pagina per la visualizzazione deve essere vuota con la pagina creata utilizzando tutta l'area della pagina.
+Permette all'utente di creare e personalizzare il Certificato Carta regalo che viene aperto all'utente su pagamento PayPal andato a buon fine. All'utente viene offerta la possibilità di stampare il buono regalo o inviare via e-mail una copia stampabile a un account e-mail designato o entrambi.
+Questo agente di installazione delle applicazioni dovrà impostare la pagina di restituzione corretta di PayPals a questa impostazione di esecuzione con l'indirizzo della pagina dei makevoucher
+la pagina dovrà essere quasi a schermo intero. C'è una tabella creata che si estenderà a tutta larghezza con nove colonne e righe per abbinare i dati memorizzati.
+Visualizza tutti i dati utilizzabili in
+ tabella del database la pagina consente di stampare i record selezionati, cancellare il record selezionato o contrassegnare i record selezionati dei regali riscattati onorati.
+Auto creato
+Questa pagina rimane invisibile all'utente e viene utilizzata solo per l'interazione di verifica tra PayPal e questa applicazione.
+ Una volta inserite le informazioni in queste pagine
+Impostazioni personalizzate
+e premere il
+Salva I Cambiamenti
+pulsante viene creata una pagina chiamata
+che comunica con il sito web di PayPals
+L'installazione richiederà la creazione di un account di gestione venditori con PayPal e l'impostazione dell'impostazione di esecuzione con l'indirizzo di
+copia
+come indicato in
+La pagina nominata
+può essere di tuo disegno il testo su di esso dovrebbe riflettere le tue preoccupazioni sul motivo per cui l'utente ha annullato il pagamento PayPal ei tuoi rimedi per risolvere i problemi. Il testo del codice breve è
+ Mi dispiace sapere che hai cancellato se hai avuto problemi, ti preghiamo di utilizzare la nostra pagina di contatto per segnalare alla direzione
+non è necessario il codice breve [sasnys_Cancelled] solo il nome della pagina
+come è in lettere minuscole.
+La pagina è una semplice pagina di destinazione per riportare l'utente PayPal sul tuo sito. Questo è automaticamente riconosciuto con PayPal tramite questa applicazione
+Il nome del posto per il redemer del buono regalo ESEMPIO Kingston House Restaurant
+Negozio di buoni regalo
+L'indirizzo principale del negozio per la redenzione del buono ESEMPIO 11 Channon Street Gympie QLD
+Indirizzo del negozio
+Un telefono di contatto per l'assistenza ESEMPIO PH: 01 2345 6789
+Numero di telefono del negozio
+Un avviso per l'esemplare benificante Si prega di prenotare in anticipo
+Notifica
+ESEMPIO 6 mesi 0,5 anni 182,6 giorni tutti uguali allo stesso periodo di tempo
+Voucher periodo valido
+Acct Id Business PayPal da
+ID account Seler
+sulla pagina di PayPal
+Il mio profilo
+dopo essersi registrato con PayPal
+PayPal USER Acct E-MAIL che è il tuo nome di accesso per PayPal
+Indirizzo e-mail PayPal
+La larghezza del file del logo viene estesa a 510 pixel mentre l'altezza è limitata a 75 pixel
+Seleziona il tuo logo
+Protezione della posta elettronica
+ssl, tls o lascia vuoto
+di solito posta o smtp.emailaddress.com.au
+Porta e-mail
+email Username
+di solito il tuo indirizzo email
+Email password
+la tua password e-mail
+Dettagli di integrazione di PayPal
+Quando tutto è in alto, la sola cosa da fare è copiare e incollare queste due affermazioni sul tuo account payPal
+Dichiarazione uno
+Dichiarazione due
+Dopo aver effettuato l'accesso all'account aziendale PayPal, fai clic sull'icona a forma di ingranaggio in alto a destra.
+Questo espone il
+Strumenti di vendita
+collegamento.
+il link ti mostra il
+Preferenze del sito Web
+collegamento di aggiornamento. Quel collegamento si apre a queste finestre di dialogo. Queste sono le impostazioni predefinite.
+ Pagamento immediato
+collegamento per l'aggiornamento delle notifiche. Quel collegamento si apre a questa finestra di dialogo.
+Se hai bisogno di aiuto clicca qui
+PayPal: il modo più sicuro e semplice per pagare online!
+Dona con il pulsante PayPal
+Rendi tutto ciò che vale un valore, donalo a questa app!
+impostazioni
+per favore trova allegato il tuo buono regalo per
+Il valore imponibile di questa donazione è $
+Pagamento fatto
+si prega di utilizzare questo corpo e-mail come ricevuta.
+Ringraziandovi
+Per visualizzare il messaggio, si prega di utilizzare un visualizzatore e-mail compatibile con HTML!
+Ci sono ancora processori in corso. Chiudi la pagina di chiusura se vuoi davvero chiudere i prossesors per favore chiudi il browser
+Ci sono ancora processori in corso Spiacenti, chiusura della pagina chiusa, se si vuole veramente chiudere i prossesors, chiudere il browser
+Il database non è accessibile,
+ riprovare più tardi o mettersi in contatto con service@sasnys.net.au
+Stampare
+Elimina
+redenti
+Codice ID
+Regalo
+Pagato da
+Scade il
+Valore della carta
+Processi
+Clicca per procedere con la selezione
+Annulla
+Clicca per cancellare
+Crea impostazioni voucher
+attendere, a meno che non si avverta un errore, quindi chiudere il browser
+SGVC_wordwraper str, columbs, str_break, code
+Si è verificato un errore nell'accesso ai dati. Si prega di contattare il servizio Sasnys per favore con questo errore
+Riscattare

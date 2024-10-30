@@ -1,0 +1,160 @@
+Kad hadiah istimewa untuk seseorang yang istimewa
+nama penerima
+nama untuk digunakan sebagai pembekal baucar
+Terdapat ralat dalam membuat sambungan ke pangkalan data dengan ralat ini
+sila telefon
+Muat turun Baucar
+tiada pilihan
+Pemproses kad hadiah telah selesai
+Berterima kasih untuk butang klik peribadi anda untuk memuat turun baucer anda atau kembali untuk mengedit kad hadiah anda
+Sekiranya anda mempunyai masalah, sila hubungi
+Kembali ke editor
+Pemproses kad hadiah mempunyai ralat
+ sila hubungi
+mengambil perhatian masa itu
+untuk rujukan kepada PayPal
+ klik butang untuk menutup
+Tutup Halaman
+Halaman reka bentuk sijil Hadiah
+Anda berjaya melayari laman reka bentuk
+Berbakat untuk
+Nilai $
+Berbakat dari
+tarikh luput
+nama kod
+Nama penerima untuk memakai sijil
+Dari nama
+Nama pilihan
+Tarikh Kad Pemberian Hadiah
+Nilai Kad Hadiah
+Nombor kod kad hadiah
+Alamat e-mel anda
+Sila masukkan alamat e-mel untuk menghantar pdf terlampir ke
+E-mel acct untuk meneruskan sijil untuk percetakan
+Teks untuk Kad Hadiah
+anda boleh menambah atau menukar sebarang teks di kawasan ini
+pemilihan senten yang sesuai untuk dipilih dan atau diubah
+Teks contoh
+Kepada ayah terbaik di dunia
+Kepada ibu terbaik di dunia
+Untuk nanna terbaik di dunia
+Untuk pop terbaik di dunia
+Untuk pekerjaan yang dilakukan dengan baik
+Ulang tahun kami
+Hanya kerana anda sepatutnya
+Hantar untuk percetakan
+Buat e-mel dengan Lampiran
+Muat turun dari penyemak imbas
+Kedua-duanya
+Pilih bingkai untuk kad hadiah
+Pilih sempadan
+Adakah anda bersedia untuk mencetak kad Hadiah ke PDF dan mel kepadanya
+Adakah anda bersedia untuk memuat turun fail PDF kad Hadiah?
+Adakah anda bersedia untuk mencetak kad Hadiah ke PDF
+dan hantar ke
+serta memuat turun salinan?
+Ubah suai balik
+Maaf untuk mendengar bahawa anda telah dibatalkan. jika anda menghadapi masalah, sila gunakan halaman hubungan kami untuk melaporkan kepada pihak pengurusan.
+Baucar Tempoh sah mesti menjadi nombor
+Kod pendek Wordpress
+Reka bentuk format yang dicadangkan halaman
+Penerangan pemproses
+Buat halaman berorientasikan Jualan dengan seksyen kecil untuk memegang jadual tiga baris dan satu lajur saiz sebenarnya sisipan dipaparkan di sini. Warna latar belakang adalah telus dan teks berwarna putih
+Masukkan nilai
+Mencipta pautan ke pangkalan data wordpress dan kemudian secara automatik mencipta jadual pangkalan data yang dipanggil
+ Butang menghantar pengguna ke tapak PayPal untuk pemproses pembayaran.
+Halaman untuk paparan perlu kosong dengan halaman yang dibuat menggunakan semua kawasan halaman.
+Membenarkan pengguna membuat dan memperibadikan Sijil Kad Hadiah yang dibuka kepada pengguna mengenai pembayaran PayPal yang berjaya. Pengguna ditawarkan pilihan mencetak Sijil Hadiah atau mengirim e-mel salinan yang dapat dicetak ke akaun e-mel yang ditetapkan atau kedua-duanya.
+Ejen memasang aplikasi ini perlu menetapkan halaman pemulangan PayPal berjaya ke tetapan jangka ini dengan alamat halaman makevoucher
+halaman itu perlu menjadi saiz skrin hampir penuh. Terdapat jadual yang dibuat yang akan merangkumi lebar penuh dengan sembilan lajur dan baris untuk memadankan data yang disimpan.
+Memaparkan semua data yang boleh digunakan dalam
+ Jadual pangkalan data halaman ini membolehkan pencetakan rekod terpilih, penghapusan rekod terpilih, atau menandakan rekod terpilih hadiah-hadiah yang ditebus.
+Dibuat secara Auto
+Halaman ini tetap tidak dapat dilihat oleh pengguna dan hanya digunakan untuk interaksi pengesahan antara PayPal dan aplikasi ini.
+ Sebaik sahaja anda mengisi maklumat di halaman ini
+Tetapan peribadi
+dan tekan
+Simpan Perubahan
+butang halaman dibuat dipanggil
+yang berkomunikasi dengan laman web PayPals
+Pemasangan akan memerlukan penubuhan akaun pengurusan penjual dengan PayPal serta menetapkan tetapan lari dengan alamat
+salinan
+seperti yang diarahkan dalam
+Halaman bernama
+boleh menjadi rekaan anda sendiri teks di atasnya harus mencerminkan kebimbangan anda tentang mengapa pengguna membatalkan pembayaran PayPal dan remedi anda untuk menangani masalah yang ada. Teks dari kod pendek adalah
+ Maaf untuk mendengar bahawa anda dibatalkan jika anda menghadapi masalah sila gunakan halaman hubungan kami untuk melaporkan kepada pihak pengurusan
+anda tidak memerlukan kod pendek [sasnys_Cancelled] hanya nama halaman
+seperti dalam kes yang lebih rendah.
+Halaman ini adalah halaman pendaratan mudah untuk mendapatkan kembali pengguna PayPal ke laman web anda. Ini secara automatik diiktiraf dengan PayPal melalui aplikasi ini
+Nama tempat untuk baucer hadiah hadiah EXAMPLE Kingston House Restaurant
+Kedai Baucer Hadiah
+Alamat depan kedai untuk pengurangan baucer EXAMPLE 11 Channon Street Gympie QLD
+Kedai Alamat
+Telefon kenalan untuk bantuan EXAMPLE PH: 01 2345 6789
+Kedai Telefon Nombor
+Notis untuk EXAMPLE yang bermanfaat Sila buat pra-buku
+Pemberitahuan
+CONTOH 6 bulan 0.5 tahun 182.6 hari semuanya bersamaan dengan tempoh masa yang sama
+Tempoh baucer sah
+Perniagaan Acct Id dari PayPal dari
+ID akaun seler
+pada halaman paypal
+Profil saya
+selepas mendaftar dengan PayPal
+PayPal USER Acct E-MAIL yang merupakan nama login anda untuk PayPal
+Alamat e-mel PayPal
+Lebar fail logo diregangkan hingga 510 piksel manakala ketinggiannya terhad kepada 75 piksel
+Pilih logo anda
+Keselamatan E-Mail
+ssl, tls atau kosongkan
+biasanya mel atau smtp.emailaddress.com.au
+Port e-mel
+e-mel Username
+biasanya alamat e-mel anda
+Kata laluan e-mel
+kata laluan e-mel anda
+Butiran penggabungan PayPal
+Apabila semua ditegaskan di atas maka satu-satunya perkara yang tersisa ialah menyalin dan menampal kedua-dua penyataan ini ke akaun payPal anda
+Kenyataan satu
+Penyataan dua
+Selepas log masuk ke akaun perniagaan PayPal anda klik ikon berbentuk gear atas kanan.
+Ini mendedahkan
+Alat jualan
+pautan.
+pautan menunjukkan anda
+Pilihan laman web
+kemas kini pautan. Pautan itu membuka kepada dialog ini. Ini adalah tetapan lalai.
+ Pembayaran segera
+pautan kemas kini pemberitahuan. Pautan itu terbuka kepada dialog ini.
+Jika anda memerlukan bantuan klik di sini
+PayPal - Cara yang lebih selamat dan mudah untuk membayar dalam talian!
+Dermakan dengan butang PayPal
+Buat semua nilai ini bernilai, dermakan kepada aplikasi ini!
+Tetapan
+sila dapatkan kupon Bau Hadiah anda
+Nilai yang boleh dikenakan derma ini ialah $
+Bayaran telah dibuat
+sila gunakan badan e-mel ini sebagai resit anda.
+Berterima kasih kepada awak
+Untuk melihat mesej, sila gunakan pemapar e-mel yang serasi HTML!
+Masih ada pemproses untuk pergi Maaf halting halaman dekat jika anda benar-benar ingin menutup prosesor sila tutup penyemak imbas
+Masih ada pemproses untuk pergi Maaf laman terhenti menutup jika anda benar-benar ingin menutup prosesor sila tutup penyemak imbas
+Pangkalan data tidak dapat diakses,
+ cuba kemudian atau berhubung dengan service@sasnys.net.au
+Cetak
+Padam
+Ditebus
+Kod ID
+Hadiah Reciever
+Dibayar oleh
+Luput pada
+Nilai Kad
+Proses
+Klik untuk meneruskan pemilihan
+Batalkan
+Klik untuk membatalkan
+Buat Tetapan Baucer
+sila tunggu kecuali anda merasakan terdapat ralat kemudian tutup penyemak imbas
+SGVC_wordwraper str, columbs, str_break, code
+Terdapat ralat dalam mengakses data, Sila hubungi perkhidmatan Sasnys dengan ralat ini
+Tebus

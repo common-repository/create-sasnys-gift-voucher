@@ -1,0 +1,675 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-20 15:43+1000\n"
+"PO-Revision-Date: 2019-06-29 18:18+1000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: create-sasnys_gift_voucher.php:129 create-sasnys_gift_voucher.php:461
+msgid "A special gift card for someone special"
+msgstr "Specjalna karta podarunkowa dla kogoś wyjątkowego"
+
+#: create-sasnys_gift_voucher.php:129
+msgid "recipiants name"
+msgstr "imię odbiorcy"
+
+#: create-sasnys_gift_voucher.php:129
+msgid "a name to use as the provider of the voucher"
+msgstr "nazwa, która ma być używana jako dostawca kuponu"
+
+#: create-sasnys_gift_voucher.php:177 create-sasnys_gift_voucher.php:179
+msgid "There has been an error in establishing a connection to the database with this sort of error"
+msgstr "Wystąpił błąd podczas nawiązywania połączenia z bazą danych z tego rodzaju błędem"
+
+#: create-sasnys_gift_voucher.php:177 create-sasnys_gift_voucher.php:179
+msgid "please Phone "
+msgstr "proszę Telefon"
+
+#: create-sasnys_gift_voucher.php:231
+msgid "Download Voucher"
+msgstr "Pobierz kupon"
+
+#: create-sasnys_gift_voucher.php:244
+#: bin/admin_templates/Admin_Settings.php:62
+#: bin/admin_templates/Admin_Settings.php:67
+#: bin/admin_templates/Admin_Settings.php:68
+#: bin/admin_templates/Admin_Settings.php:75 bin/dsign/functions.php:72
+#: bin/dsign/functions.php:183
+msgid "none selected"
+msgstr "żaden nie został wybrany"
+
+#: create-sasnys_gift_voucher.php:253
+msgid "The Gift card processors have finished"
+msgstr "Procesory kart upominkowych zostały zakończone"
+
+#: create-sasnys_gift_voucher.php:254
+msgid "Thanking you for your custom click the button to download your voucher or go back to edit your gift card"
+msgstr "Dziękując za niestandardowe kliknięcie przycisku, aby pobrać kupon lub wrócić do edycji karty upominkowej"
+
+#: create-sasnys_gift_voucher.php:255
+msgid "If you have any problems please contact "
+msgstr "Jeśli masz jakiekolwiek problemy, skontaktuj się z nami"
+
+#: create-sasnys_gift_voucher.php:257
+msgid "Go back to editor"
+msgstr "Wróć do edytora"
+
+#: create-sasnys_gift_voucher.php:262
+msgid "The Gift card processors have had an error"
+msgstr "Procesory kart upominkowych miały błąd"
+
+#: create-sasnys_gift_voucher.php:263
+msgid " please contact "
+msgstr "proszę o kontakt"
+
+#: create-sasnys_gift_voucher.php:263
+msgid "taking note of the time"
+msgstr "biorąc pod uwagę czas"
+
+#: create-sasnys_gift_voucher.php:263
+msgid "for referance to PayPal"
+msgstr "za odesłanie do PayPal"
+
+#: create-sasnys_gift_voucher.php:264
+msgid " click the button to close "
+msgstr "kliknij przycisk, aby zamknąć"
+
+#: create-sasnys_gift_voucher.php:265 create-sasnys_gift_voucher.php:504
+msgid "Close Page"
+msgstr "Zamknij stronę"
+
+#: create-sasnys_gift_voucher.php:282
+msgid "Gift Certificate design page"
+msgstr "Strona projektu certyfikatu upominkowego"
+
+#: create-sasnys_gift_voucher.php:287
+msgid "You have successfully navigated through to the design page"
+msgstr "Udało Ci się przejść do strony projektu"
+
+#: create-sasnys_gift_voucher.php:306
+msgid "Gifted to"
+msgstr "Obdarzony"
+
+#: create-sasnys_gift_voucher.php:307
+msgid "Value of $"
+msgstr "Wartość $"
+
+#: create-sasnys_gift_voucher.php:309
+msgid "Gifted from"
+msgstr "Obdarowany"
+
+#: create-sasnys_gift_voucher.php:311
+msgid "expiry date"
+msgstr "Data wygaśnięcia"
+
+#: create-sasnys_gift_voucher.php:312
+msgid "code name"
+msgstr "kryptonim"
+
+#: create-sasnys_gift_voucher.php:335
+msgid "The recipients name to put on certificate  "
+msgstr "Nazwa odbiorcy do umieszczenia na certyfikacie"
+
+#: create-sasnys_gift_voucher.php:358
+msgid "From name"
+msgstr "Z nazwy"
+
+#: create-sasnys_gift_voucher.php:360
+msgid "Preferred name"
+msgstr "Preferowana Nazwa"
+
+#: create-sasnys_gift_voucher.php:375
+msgid "Gift Card Expiry date"
+msgstr "Data ważności karty upominkowej"
+
+#: create-sasnys_gift_voucher.php:392
+msgid "Value of Gift Card"
+msgstr "Wartość karty upominkowej"
+
+#: create-sasnys_gift_voucher.php:408
+msgid "Gift Card code number"
+msgstr "Numer kodu karty upominkowej"
+
+#: create-sasnys_gift_voucher.php:424
+msgid "Your e-mail address"
+msgstr "Twój adres email"
+
+#: create-sasnys_gift_voucher.php:427
+msgid "Please enter an email address to send attached pdf to"
+msgstr "Wprowadź adres e-mail, aby wysłać załączony plik PDF do"
+
+#: create-sasnys_gift_voucher.php:428
+msgid "The e-mail acct to forward the certificate for printing"
+msgstr "Wiadomość e-mail przekazuje certyfikat do drukowania"
+
+#: create-sasnys_gift_voucher.php:442
+msgid "Text for Gift Card"
+msgstr "Tekst na kartę podarunkową"
+
+#: create-sasnys_gift_voucher.php:445
+msgid "you can add or change any text in this area"
+msgstr "możesz dodać lub zmienić dowolny tekst w tym obszarze"
+
+#: create-sasnys_gift_voucher.php:453
+msgid "selection of suitable sentenances to choose and or change"
+msgstr "wybór odpowiednich wyroków do wyboru lub zmiany"
+
+#: create-sasnys_gift_voucher.php:454
+msgid "Example text"
+msgstr "Przykładowy tekst"
+
+#: create-sasnys_gift_voucher.php:455
+msgid "To the best dad in the world"
+msgstr "Do najlepszego taty na świecie"
+
+#: create-sasnys_gift_voucher.php:456
+msgid "To the best mum in the world"
+msgstr "Do najlepszej mamy na świecie"
+
+#: create-sasnys_gift_voucher.php:457
+msgid "To the best nanna in the world"
+msgstr "Do najlepszej nanny na świecie"
+
+#: create-sasnys_gift_voucher.php:458
+msgid "To the best pop in the world"
+msgstr "Do najlepszego popu na świecie"
+
+#: create-sasnys_gift_voucher.php:459
+msgid "For a job well done"
+msgstr "Za dobrze wykonaną pracę"
+
+#: create-sasnys_gift_voucher.php:460
+msgid "Its our anniversary"
+msgstr "To nasza rocznica"
+
+#: create-sasnys_gift_voucher.php:462
+msgid "Just because you deserve it"
+msgstr "Tylko dlatego, że na to zasługujesz"
+
+#: create-sasnys_gift_voucher.php:474 create-sasnys_gift_voucher.php:503
+msgid "Submit for printing"
+msgstr "Prześlij do druku"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Create email with Attachment"
+msgstr "Utwórz wiadomość e-mail z załącznikiem"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Download from browser"
+msgstr "Pobierz z przeglądarki"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Both"
+msgstr "Obie"
+
+#: create-sasnys_gift_voucher.php:485 create-sasnys_gift_voucher.php:487
+msgid "Select a frame for the gift card"
+msgstr "Wybierz ramkę dla karty upominkowej"
+
+#: create-sasnys_gift_voucher.php:486
+msgid "Select a border"
+msgstr "Wybierz obramowanie"
+
+#: create-sasnys_gift_voucher.php:499
+msgid "Are you ready to print the Gift card to a PDF and mail it to"
+msgstr "Czy jesteś gotowy wydrukować kartę podarunkową w pliku PDF i wysłać ją pocztą elektroniczną"
+
+#: create-sasnys_gift_voucher.php:500
+msgid "Are you ready to download a PDF file of the Gift Card ?"
+msgstr "Czy jesteś gotowy, aby pobrać plik PDF karty upominkowej?"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "Are you ready to print the Gift card to a PDF"
+msgstr "Czy jesteś gotowy wydrukować kartę podarunkową do pliku PDF"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "and mail it to"
+msgstr "i wyślij go pocztą"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "as well as downloading a copy?"
+msgstr "a także pobieranie kopii?"
+
+#: create-sasnys_gift_voucher.php:505
+msgid "Modify go back"
+msgstr "Zmień, wróć"
+
+#: create-sasnys_gift_voucher.php:641
+msgid "Sorry to hear that you cancelled. if you had trouble please use our contact page to report to management."
+msgstr "Przepraszamy za to, że odwołałeś. w razie problemów skorzystaj z naszej strony kontaktowej, aby zgłosić się do kierownictwa."
+
+#: bin/admin_templates/Admin_Settings.php:74
+msgid "Voucher Valid period has to be a number"
+msgstr "Voucher Ważny okres musi być liczbą"
+
+#: bin/admin_templates/Admin_Settings.php:96
+msgid "Wordpress Short codes"
+msgstr "Krótkie kody Wordpress"
+
+#: bin/admin_templates/Admin_Settings.php:97
+msgid "Page suggested format design"
+msgstr "Proponowany format strony"
+
+#: bin/admin_templates/Admin_Settings.php:98
+msgid "Description of processors"
+msgstr "Opis procesorów"
+
+#: bin/admin_templates/Admin_Settings.php:104
+msgid "Create a Sales orientated page with a small section to hold a table of three rows and one column the actual size of the insert is shown here. Background colour is transparent and the text is white"
+msgstr "Utwórz stronę zorientowaną na sprzedaż z małą sekcją do przechowywania tabeli trzech wierszy i jednej kolumny, gdzie pokazany jest rzeczywisty rozmiar wstawki. Kolor tła jest przezroczysty, a tekst jest biały"
+
+#: bin/admin_templates/Admin_Settings.php:107
+msgid "Enter value "
+msgstr "Wprowadź wartość"
+
+#: bin/admin_templates/Admin_Settings.php:124
+msgid "Creates a link to the wordpress database and then automatically creates a database table called"
+msgstr "Tworzy łącze do bazy danych wordpress, a następnie automatycznie tworzy tabelę bazy danych o nazwie"
+
+#: bin/admin_templates/Admin_Settings.php:124
+msgid " The button sends the user to the PayPal site for payment processors."
+msgstr "Przycisk wysyła użytkownika do witryny PayPal dla procesorów płatności."
+
+#: bin/admin_templates/Admin_Settings.php:137
+msgid "The page for display needs to be blank with the created page using all page area."
+msgstr "Strona do wyświetlenia musi być pusta dla utworzonej strony przy użyciu całego obszaru strony."
+
+#: bin/admin_templates/Admin_Settings.php:138
+msgid "Allows the user to create and personalise the Gift Card Certificate wich is opened to the user on successful PayPal payment. The user is offered a choice of printing the Gift Certificate or e-mailing a printable copy to a designated e-mail account or both."
+msgstr "Pozwala użytkownikowi na utworzenie i personalizację certyfikatu karty podarunkowej, który jest otwarty dla użytkownika po pomyślnej płatności PayPal. Użytkownik ma możliwość wyboru drukowania bonu upominkowego lub wysłania pocztą elektroniczną kopii do wydrukowania na wyznaczone konto e-mail lub oba."
+
+#: bin/admin_templates/Admin_Settings.php:139
+msgid "This applications installing agent will need to set PayPals successful returning page to this run setting with the address of the makevoucher page"
+msgstr "Ten agent instalacyjny aplikacji będzie musiał ustawić stronę powracającego PayPals na to ustawienie uruchomienia z adresem strony makevouchera"
+
+#: bin/admin_templates/Admin_Settings.php:152
+msgid "the page will need to be nearly full screen size. There is a table created that will span full width with nine columns and rows to match stored data."
+msgstr "strona musi mieć prawie pełny rozmiar ekranu. Stworzona jest tabela, która obejmie całą szerokość dziewięciu kolumn i wierszy, aby dopasować przechowywane dane."
+
+#: bin/admin_templates/Admin_Settings.php:153
+msgid "Displays all usable data in the "
+msgstr "Wyświetla wszystkie użyteczne dane w"
+
+#: bin/admin_templates/Admin_Settings.php:153
+msgid " database table the page allows printing of selected records, deletion of selected record, or marking selected records of honoured redeemed gifts."
+msgstr "tabela bazy danych strona umożliwia wydruk wybranych rekordów, usunięcie wybranego rekordu lub zaznaczenie wybranych rekordów honorowanych, odkupionych prezentów."
+
+#: bin/admin_templates/Admin_Settings.php:165
+msgid "Auto Created"
+msgstr "Auto utworzone"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "This page remains invisible to the user and is only used for verification interaction between PayPal and this application."
+msgstr "Ta strona pozostaje niewidoczna dla użytkownika i służy tylko do weryfikacji interakcji między PayPal a tą aplikacją."
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid " Once you fill in the information in this pages"
+msgstr "Po wypełnieniu informacji na tych stronach"
+
+#: bin/admin_templates/Admin_Settings.php:166
+#: bin/admin_templates/Admin_Settings.php:167
+#: bin/admin_templates/Admin_Settings.php:185
+msgid "Personalised settings"
+msgstr "Ustawienia spersonalizowane"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "and press the"
+msgstr "i naciśnij"
+
+#: bin/admin_templates/Admin_Settings.php:166
+#: bin/admin_templates/Admin_Settings.php:248
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "button a page is created called"
+msgstr "przycisk tworzona jest strona o nazwie"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "that communicates with PayPals website"
+msgstr "który komunikuje się ze stroną PayPals"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "The installation will require the setting up of a sellers management account with PayPal as well as setting the run setting with the address of "
+msgstr "Instalacja będzie wymagała utworzenia konta zarządzania sprzedawcami w systemie PayPal, a także ustawienia uruchomienia z adresem"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "copy"
+msgstr "Kopiuj"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "as instructed in"
+msgstr "zgodnie z instrukcją"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid "The page named"
+msgstr "Strona o nazwie"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid "can be of your own design the text on it should reflect your concerns about why the user cancelled the PayPal payment and your remedies to address there concerns. The text from the short code is"
+msgstr "może być według własnego projektu tekst na nim powinien odzwierciedlać obawy dotyczące przyczyn, dla których użytkownik anulował płatność PayPal i środki zaradcze w celu rozwiązania problemów. Tekst z krótkiego kodu to"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid " Sorry to hear that you cancelled if you had trouble please use our contact page to report to management"
+msgstr "Przepraszamy za to, że anulowałeś, jeśli masz problemy, skorzystaj z naszej strony kontaktowej, aby zgłosić się do kierownictwa"
+
+#: bin/admin_templates/Admin_Settings.php:181
+msgid "you do not need the [sasnys_Cancelled] short code just the page name"
+msgstr "nie potrzebujesz krótkiego kodu [sasnys_Cancelled] tylko nazwę strony"
+
+#: bin/admin_templates/Admin_Settings.php:181
+msgid "as is in lower Case."
+msgstr "jak w przypadku niższym."
+
+#: bin/admin_templates/Admin_Settings.php:182
+msgid "The page is a simple landing page to get the PayPal user back to your site. This is automatically recognised with PayPal via this application"
+msgstr "Strona jest prostą stroną docelową, dzięki której użytkownik PayPal powróci do Twojej witryny. Jest to automatycznie rozpoznawane w systemie PayPal za pośrednictwem tej aplikacji"
+
+#: bin/admin_templates/Admin_Settings.php:187
+msgid "The place name for the gift voucher redemer EXAMPLE Kingston House Restaurant"
+msgstr "Nazwa miejsca na kupon podarunkowy EXAMPLE Kingston House Restaurant"
+
+#: bin/admin_templates/Admin_Settings.php:188
+msgid "Gift Voucher Shop"
+msgstr "Sklep z bonami upominkowymi"
+
+#: bin/admin_templates/Admin_Settings.php:192
+msgid "The shop front address for redemtion of voucher EXAMPLE 11 Channon Street Gympie QLD"
+msgstr "Adres sklepu dla redemtionu vouchera PRZYKŁAD 11 Gymon Street Gympie QLD"
+
+#: bin/admin_templates/Admin_Settings.php:193
+msgid "Shop Address"
+msgstr "Adres sklepu"
+
+#: bin/admin_templates/Admin_Settings.php:197
+msgid "A contact phone for assistance EXAMPLE PH:01 2345 6789"
+msgstr "Telefon kontaktowy do pomocy PRZYKŁAD PH: 01 2345 6789"
+
+#: bin/admin_templates/Admin_Settings.php:198
+msgid "Shop Phone Number"
+msgstr "Kup numer telefonu"
+
+#: bin/admin_templates/Admin_Settings.php:202
+msgid "A notice for the benificary EXAMPLE Please pre-book"
+msgstr "Powiadomienie o korzystnym PRZYKŁADZIE Proszę dokonać wstępnej rezerwacji"
+
+#: bin/admin_templates/Admin_Settings.php:203
+msgid "Notification"
+msgstr "Powiadomienie"
+
+#: bin/admin_templates/Admin_Settings.php:207
+msgid "EXAMPLE 6 months 0.5 years 182.6 days all equal the same time period"
+msgstr "PRZYKŁAD 6 miesięcy 0,5 roku 182,6 dni wszystkie są równe temu samemu okresowi czasu"
+
+#: bin/admin_templates/Admin_Settings.php:208
+msgid "Voucher valid period"
+msgstr "Kupon ważny okres"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "PayPal business Acct Id from"
+msgstr "Identyfikator Acct firmy PayPal z"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "Seler account ID"
+msgstr "Wybierz identyfikator konta"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "on the paypal page"
+msgstr "na stronie paypal"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "My profile"
+msgstr "Mój profil"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "after registering with PayPal"
+msgstr "po rejestracji w PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:221
+msgid "PayPal USER Acct E-MAIL which is your login name for PayPal"
+msgstr "PayPal USER Acct E-MAIL, który jest Twoim loginem do PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:222
+msgid "PayPal e-mail address"
+msgstr "Adres email w PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:231
+#: bin/admin_templates/Admin_Settings.php:232
+#: bin/admin_templates/Admin_Settings.php:233
+#: bin/admin_templates/Admin_Settings.php:234
+msgid "The logo file width is stretched to 510 pixels while the height is limited to 75 pixels"
+msgstr "Szerokość pliku logo jest rozciągnięta do 510 pikseli, podczas gdy wysokość jest ograniczona do 75 pikseli"
+
+#: bin/admin_templates/Admin_Settings.php:231
+msgid "Select your logo"
+msgstr "Wybierz swoje logo"
+
+#: bin/admin_templates/Admin_Settings.php:238
+msgid "E-Mail Security"
+msgstr "Zabezpieczenia poczty e-mail"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "ssl ,tls or leave blank"
+msgstr "ssl, tls lub pozostaw puste"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "usually mail or smtp.emailaddress.com.au"
+msgstr "zwykle mail lub smtp.emailaddress.com.au"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "Email port"
+msgstr "Port e-mail"
+
+#: bin/admin_templates/Admin_Settings.php:243
+msgid "email Username"
+msgstr "Nazwa użytkownika e-mail"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "usually your email address"
+msgstr "zazwyczaj twój adres e-mail"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "Email password"
+msgstr "Email Hasło"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "your e-mail password"
+msgstr "twoje hasło e-mail"
+
+#: bin/admin_templates/Admin_Settings.php:256
+msgid "PayPal integration details"
+msgstr "Szczegóły integracji PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:261
+msgid "When all is configuard above then the only thing left is to copy and paste these two statements to your payPal account"
+msgstr "Gdy wszystko jest skonfigurowane powyżej, jedyne, co pozostało, to skopiowanie i wklejenie tych dwóch instrukcji do konta payPal"
+
+#: bin/admin_templates/Admin_Settings.php:266
+msgid "Statement one"
+msgstr "Oświadczenie pierwsze"
+
+#: bin/admin_templates/Admin_Settings.php:273
+msgid "Statement two"
+msgstr "Oświadczenie dwa"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "After logging into your PayPal business account click the gear shaped icon top right."
+msgstr "Po zalogowaniu się na konto firmowe PayPal kliknij ikonę koła zębatego w prawym górnym rogu."
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "This exposes the"
+msgstr "To obnaża"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "Selling tools"
+msgstr "Narzędzia do sprzedaży"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "link."
+msgstr "połączyć."
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "the link shows you the"
+msgstr "link pokazuje"
+
+#: bin/admin_templates/Admin_Settings.php:281
+msgid "Website preferences"
+msgstr "Preferencje strony"
+
+#: bin/admin_templates/Admin_Settings.php:281
+msgid "update link. That link opens up to these dialogs. These are the default settings."
+msgstr "link aktualizacji. To łącze otwiera się na te okna dialogowe. Są to ustawienia domyślne."
+
+#: bin/admin_templates/Admin_Settings.php:295
+msgid " Instant payment"
+msgstr "Natychmiastowa płatność"
+
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "notifications update link. That link opens up to this dialog."
+msgstr "łącze aktualizacji powiadomień. Ten link otwiera się do tego okna dialogowego."
+
+#: bin/admin_templates/Admin_Settings.php:307
+msgid "If you need help click here"
+msgstr "Jeśli potrzebujesz pomocy, kliknij tutaj"
+
+#: bin/admin_templates/Admin_Settings.php:315
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - bezpieczniejszy i łatwiejszy sposób płatności online!"
+
+#: bin/admin_templates/Admin_Settings.php:315
+msgid "Donate with PayPal button"
+msgstr "Przekaż darowiznę za pomocą przycisku PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:318
+msgid "Make all this worth a value,donate to this app !"
+msgstr "Spraw, by to wszystko było warte swojej wartości, wpłać do tej aplikacji!"
+
+#: bin/admin_templates/SettingsLinks.php:15
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: bin/dsign/functions.php:204
+msgid "please find attached your Gift Voucher for "
+msgstr "załącz załączony bon podarunkowy na"
+
+#: bin/dsign/functions.php:206
+msgid "The taxable value of this donation is $"
+msgstr "Podatkowa wartość tej darowizny wynosi $"
+
+#: bin/dsign/functions.php:208
+msgid "Payment made"
+msgstr "Płatność dokonana"
+
+#: bin/dsign/functions.php:210
+msgid "please use this e-mail body as your receipt."
+msgstr "użyj tego e-maila jako potwierdzenia."
+
+#: bin/dsign/functions.php:212
+msgid "Thanking you"
+msgstr "Dziękując Tobie"
+
+#: bin/dsign/functions.php:255
+msgid "To view the message, please use an HTML compatible email viewer!"
+msgstr "Aby wyświetlić wiadomość, użyj przeglądarki poczty kompatybilnej z HTML!"
+
+#: bin/dsign/functions.php:376
+msgid "There is still processors on going Sorry halting page close if you really want to close prossesors please close the browser"
+msgstr "Nadal działają procesory Przepraszamy, zamknięcie strony, jeśli naprawdę chcesz zamknąć prossery, zamknij przeglądarkę"
+
+#: bin/dsign/functions.php:384
+msgid "There is still processors on going Sorry halted page close if you really want to close prossesors please close the browser"
+msgstr "Nadal działają procesory Przepraszam za zamknięcie strony, jeśli naprawdę chcesz zamknąć prossesory, zamknij przeglądarkę"
+
+#: bin/dsign/functions.php:579
+msgid "The database is not accessable,"
+msgstr "Baza danych nie jest dostępna,"
+
+#: bin/dsign/functions.php:579
+msgid " try later or get in contact with service@sasnys.net.au"
+msgstr "spróbuj później lub skontaktuj się z service@sasnys.net.au"
+
+#: bin/dsign/functions.php:676 bin/dsign/functions.php:721
+msgid "Print"
+msgstr "Wydrukować"
+
+#: bin/dsign/functions.php:677 bin/dsign/functions.php:722
+msgid "Delete"
+msgstr "Kasować"
+
+#: bin/dsign/functions.php:678
+msgid "Redeemed"
+msgstr "Odkupiony"
+
+#: bin/dsign/functions.php:680
+msgid "ID code"
+msgstr "Kod identyfikacyjny"
+
+#: bin/dsign/functions.php:681
+msgid "Gift Reciever"
+msgstr "Odbiorca upominków"
+
+#: bin/dsign/functions.php:682
+msgid "Payed by"
+msgstr "Zapłacony przez"
+
+#: bin/dsign/functions.php:683
+msgid "Expires on"
+msgstr "Upływa w dniu"
+
+#: bin/dsign/functions.php:684
+msgid "Card Value"
+msgstr "Wartość karty"
+
+#: bin/dsign/functions.php:702 bin/dsign/functions.php:720
+msgid "Process"
+msgstr "Proces"
+
+#: bin/dsign/functions.php:702
+msgid "Click to proceed with selection"
+msgstr "Kliknij, aby kontynuować wybór"
+
+#: bin/dsign/functions.php:702
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: bin/dsign/functions.php:702
+msgid "Click to cancel"
+msgstr "Kliknij, aby anulować"
+
+#: bin/dsign/functions.php:709
+msgid "Create Voucher Settings"
+msgstr "Utwórz ustawienia kuponu"
+
+#: bin/dsign/functions.php:717
+msgid "please wait unless you feel there is an error then close the browser"
+msgstr "proszę czekać, chyba że uważasz, że wystąpił błąd, a następnie zamknij przeglądarkę"
+
+#: bin/dsign/functions.php:718
+msgid "SGVC_wordwraper  str, columbs, str_break, code"
+msgstr "SGVC_wordwraper str, columbs, str_break, kod"
+
+#: bin/dsign/functions.php:719
+msgid "There has been an error in accessing the data, Please contact Sasnys service please with this error"
+msgstr "Wystąpił błąd w dostępie do danych. Prosimy o kontakt z serwisem Sasnys, prosząc o ten błąd"
+
+#: bin/dsign/functions.php:723
+msgid "Redeem"
+msgstr "Wykupić"

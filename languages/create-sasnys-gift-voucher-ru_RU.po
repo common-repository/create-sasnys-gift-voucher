@@ -1,0 +1,675 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-20 15:43+1000\n"
+"PO-Revision-Date: 2019-06-29 18:19+1000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: create-sasnys_gift_voucher.php:129 create-sasnys_gift_voucher.php:461
+msgid "A special gift card for someone special"
+msgstr "Специальная подарочная карта для кого-то особенного"
+
+#: create-sasnys_gift_voucher.php:129
+msgid "recipiants name"
+msgstr "имя получателей"
+
+#: create-sasnys_gift_voucher.php:129
+msgid "a name to use as the provider of the voucher"
+msgstr "имя для использования в качестве поставщика ваучера"
+
+#: create-sasnys_gift_voucher.php:177 create-sasnys_gift_voucher.php:179
+msgid "There has been an error in establishing a connection to the database with this sort of error"
+msgstr "Произошла ошибка при установлении соединения с базой данных с такого рода ошибкой"
+
+#: create-sasnys_gift_voucher.php:177 create-sasnys_gift_voucher.php:179
+msgid "please Phone "
+msgstr "пожалуйста, телефон"
+
+#: create-sasnys_gift_voucher.php:231
+msgid "Download Voucher"
+msgstr "Скачать ваучер"
+
+#: create-sasnys_gift_voucher.php:244
+#: bin/admin_templates/Admin_Settings.php:62
+#: bin/admin_templates/Admin_Settings.php:67
+#: bin/admin_templates/Admin_Settings.php:68
+#: bin/admin_templates/Admin_Settings.php:75 bin/dsign/functions.php:72
+#: bin/dsign/functions.php:183
+msgid "none selected"
+msgstr "не выбрано, ничего не выбрано"
+
+#: create-sasnys_gift_voucher.php:253
+msgid "The Gift card processors have finished"
+msgstr "Процессоры подарочной карты закончили"
+
+#: create-sasnys_gift_voucher.php:254
+msgid "Thanking you for your custom click the button to download your voucher or go back to edit your gift card"
+msgstr "Спасибо за ваш пользовательский нажмите кнопку, чтобы скачать ваучер или вернуться, чтобы редактировать свою подарочную карту"
+
+#: create-sasnys_gift_voucher.php:255
+msgid "If you have any problems please contact "
+msgstr "Если у вас есть какие-либо проблемы, пожалуйста, свяжитесь с"
+
+#: create-sasnys_gift_voucher.php:257
+msgid "Go back to editor"
+msgstr "Вернуться в редактор"
+
+#: create-sasnys_gift_voucher.php:262
+msgid "The Gift card processors have had an error"
+msgstr "У обработчиков подарочной карты произошла ошибка"
+
+#: create-sasnys_gift_voucher.php:263
+msgid " please contact "
+msgstr "пожалуйста, свяжитесь с"
+
+#: create-sasnys_gift_voucher.php:263
+msgid "taking note of the time"
+msgstr "принимая к сведению время"
+
+#: create-sasnys_gift_voucher.php:263
+msgid "for referance to PayPal"
+msgstr "для ссылки на PayPal"
+
+#: create-sasnys_gift_voucher.php:264
+msgid " click the button to close "
+msgstr "нажмите кнопку, чтобы закрыть"
+
+#: create-sasnys_gift_voucher.php:265 create-sasnys_gift_voucher.php:504
+msgid "Close Page"
+msgstr "Закрыть страницу"
+
+#: create-sasnys_gift_voucher.php:282
+msgid "Gift Certificate design page"
+msgstr "Страница оформления подарочного сертификата"
+
+#: create-sasnys_gift_voucher.php:287
+msgid "You have successfully navigated through to the design page"
+msgstr "Вы успешно перешли на страницу дизайна"
+
+#: create-sasnys_gift_voucher.php:306
+msgid "Gifted to"
+msgstr "Одаренный"
+
+#: create-sasnys_gift_voucher.php:307
+msgid "Value of $"
+msgstr "Стоимость $"
+
+#: create-sasnys_gift_voucher.php:309
+msgid "Gifted from"
+msgstr "Одаренный от"
+
+#: create-sasnys_gift_voucher.php:311
+msgid "expiry date"
+msgstr "срок действия"
+
+#: create-sasnys_gift_voucher.php:312
+msgid "code name"
+msgstr "кодовое имя"
+
+#: create-sasnys_gift_voucher.php:335
+msgid "The recipients name to put on certificate  "
+msgstr "Имя получателя, чтобы поставить на сертификат"
+
+#: create-sasnys_gift_voucher.php:358
+msgid "From name"
+msgstr "От имени"
+
+#: create-sasnys_gift_voucher.php:360
+msgid "Preferred name"
+msgstr "Предпочитаемое имя"
+
+#: create-sasnys_gift_voucher.php:375
+msgid "Gift Card Expiry date"
+msgstr "Срок действия подарочной карты"
+
+#: create-sasnys_gift_voucher.php:392
+msgid "Value of Gift Card"
+msgstr "Стоимость подарочной карты"
+
+#: create-sasnys_gift_voucher.php:408
+msgid "Gift Card code number"
+msgstr "Код подарочной карты"
+
+#: create-sasnys_gift_voucher.php:424
+msgid "Your e-mail address"
+msgstr "Ваш адрес электронной почты"
+
+#: create-sasnys_gift_voucher.php:427
+msgid "Please enter an email address to send attached pdf to"
+msgstr "Пожалуйста, введите адрес электронной почты, чтобы отправить прикрепленный PDF к"
+
+#: create-sasnys_gift_voucher.php:428
+msgid "The e-mail acct to forward the certificate for printing"
+msgstr "Акт по электронной почте для пересылки сертификата на печать"
+
+#: create-sasnys_gift_voucher.php:442
+msgid "Text for Gift Card"
+msgstr "Текст для подарочной карты"
+
+#: create-sasnys_gift_voucher.php:445
+msgid "you can add or change any text in this area"
+msgstr "Вы можете добавить или изменить любой текст в этой области"
+
+#: create-sasnys_gift_voucher.php:453
+msgid "selection of suitable sentenances to choose and or change"
+msgstr "выбор подходящих предложений для выбора и / или изменения"
+
+#: create-sasnys_gift_voucher.php:454
+msgid "Example text"
+msgstr "Пример текста"
+
+#: create-sasnys_gift_voucher.php:455
+msgid "To the best dad in the world"
+msgstr "Лучшему отцу в мире"
+
+#: create-sasnys_gift_voucher.php:456
+msgid "To the best mum in the world"
+msgstr "Лучшей маме в мире"
+
+#: create-sasnys_gift_voucher.php:457
+msgid "To the best nanna in the world"
+msgstr "Лучшей нанне в мире"
+
+#: create-sasnys_gift_voucher.php:458
+msgid "To the best pop in the world"
+msgstr "Для лучшей поп-музыки в мире"
+
+#: create-sasnys_gift_voucher.php:459
+msgid "For a job well done"
+msgstr "За хорошо выполненную работу"
+
+#: create-sasnys_gift_voucher.php:460
+msgid "Its our anniversary"
+msgstr "Это наша годовщина"
+
+#: create-sasnys_gift_voucher.php:462
+msgid "Just because you deserve it"
+msgstr "Просто потому что ты это заслужил"
+
+#: create-sasnys_gift_voucher.php:474 create-sasnys_gift_voucher.php:503
+msgid "Submit for printing"
+msgstr "Отправить на печать"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Create email with Attachment"
+msgstr "Создать электронное письмо с приложением"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Download from browser"
+msgstr "Скачать из браузера"
+
+#: create-sasnys_gift_voucher.php:475
+msgid "Both"
+msgstr "И то и другое"
+
+#: create-sasnys_gift_voucher.php:485 create-sasnys_gift_voucher.php:487
+msgid "Select a frame for the gift card"
+msgstr "Выберите рамку для подарочной карты"
+
+#: create-sasnys_gift_voucher.php:486
+msgid "Select a border"
+msgstr "Выберите границу"
+
+#: create-sasnys_gift_voucher.php:499
+msgid "Are you ready to print the Gift card to a PDF and mail it to"
+msgstr "Готовы ли вы распечатать подарочную карту в формате PDF и отправить ее по почте"
+
+#: create-sasnys_gift_voucher.php:500
+msgid "Are you ready to download a PDF file of the Gift Card ?"
+msgstr "Вы готовы загрузить PDF-файл Подарочной карты?"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "Are you ready to print the Gift card to a PDF"
+msgstr "Готовы ли вы распечатать подарочную карту в PDF"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "and mail it to"
+msgstr "и отправьте это по почте"
+
+#: create-sasnys_gift_voucher.php:501
+msgid "as well as downloading a copy?"
+msgstr "а также скачивание копии?"
+
+#: create-sasnys_gift_voucher.php:505
+msgid "Modify go back"
+msgstr "Изменить вернуться"
+
+#: create-sasnys_gift_voucher.php:641
+msgid "Sorry to hear that you cancelled. if you had trouble please use our contact page to report to management."
+msgstr "Жаль слышать, что вы отменили. если у вас возникли проблемы, воспользуйтесь нашей контактной страницей, чтобы сообщить руководству."
+
+#: bin/admin_templates/Admin_Settings.php:74
+msgid "Voucher Valid period has to be a number"
+msgstr "Ваучер Действительный период должен быть числом"
+
+#: bin/admin_templates/Admin_Settings.php:96
+msgid "Wordpress Short codes"
+msgstr "Wordpress Короткие коды"
+
+#: bin/admin_templates/Admin_Settings.php:97
+msgid "Page suggested format design"
+msgstr "Предложенный формат страницы"
+
+#: bin/admin_templates/Admin_Settings.php:98
+msgid "Description of processors"
+msgstr "Описание процессоров"
+
+#: bin/admin_templates/Admin_Settings.php:104
+msgid "Create a Sales orientated page with a small section to hold a table of three rows and one column the actual size of the insert is shown here. Background colour is transparent and the text is white"
+msgstr "Создайте ориентированную на продажи страницу с небольшим разделом для таблицы из трех строк и одного столбца, где показан фактический размер вставки. Цвет фона прозрачный, а текст белый"
+
+#: bin/admin_templates/Admin_Settings.php:107
+msgid "Enter value "
+msgstr "Введите значение"
+
+#: bin/admin_templates/Admin_Settings.php:124
+msgid "Creates a link to the wordpress database and then automatically creates a database table called"
+msgstr "Создает ссылку на базу данных WordPress, а затем автоматически создает таблицу базы данных под названием"
+
+#: bin/admin_templates/Admin_Settings.php:124
+msgid " The button sends the user to the PayPal site for payment processors."
+msgstr "Кнопка отправляет пользователя на сайт PayPal для платежных систем."
+
+#: bin/admin_templates/Admin_Settings.php:137
+msgid "The page for display needs to be blank with the created page using all page area."
+msgstr "Страница для отображения должна быть пустой с созданной страницей, используя всю область страницы."
+
+#: bin/admin_templates/Admin_Settings.php:138
+msgid "Allows the user to create and personalise the Gift Card Certificate wich is opened to the user on successful PayPal payment. The user is offered a choice of printing the Gift Certificate or e-mailing a printable copy to a designated e-mail account or both."
+msgstr "Позволяет пользователю создавать и персонализировать сертификат подарочной карты, который открывается пользователю при успешной оплате PayPal. Пользователю предлагается на выбор распечатать подарочный сертификат или отправить по электронной почте распечатанную копию на указанную учетную запись электронной почты или и то, и другое."
+
+#: bin/admin_templates/Admin_Settings.php:139
+msgid "This applications installing agent will need to set PayPals successful returning page to this run setting with the address of the makevoucher page"
+msgstr "Этот агент установки приложений должен будет настроить страницу успешного возврата PayPals на этот параметр запуска с адресом страницы makevoucher"
+
+#: bin/admin_templates/Admin_Settings.php:152
+msgid "the page will need to be nearly full screen size. There is a table created that will span full width with nine columns and rows to match stored data."
+msgstr "страница должна быть почти на весь экран. Создана таблица, которая будет охватывать всю ширину с девятью столбцами и строками, чтобы соответствовать сохраненным данным."
+
+#: bin/admin_templates/Admin_Settings.php:153
+msgid "Displays all usable data in the "
+msgstr "Отображает все используемые данные в"
+
+#: bin/admin_templates/Admin_Settings.php:153
+msgid " database table the page allows printing of selected records, deletion of selected record, or marking selected records of honoured redeemed gifts."
+msgstr "Таблица базы данных на странице позволяет распечатывать выбранные записи, удалять выбранные записи или отмечать выбранные записи почетными выкупленными подарками."
+
+#: bin/admin_templates/Admin_Settings.php:165
+msgid "Auto Created"
+msgstr "Авто создано"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "This page remains invisible to the user and is only used for verification interaction between PayPal and this application."
+msgstr "Эта страница остается невидимой для пользователя и используется только для проверки взаимодействия между PayPal и этим приложением."
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid " Once you fill in the information in this pages"
+msgstr "После того, как вы заполните информацию на этой странице"
+
+#: bin/admin_templates/Admin_Settings.php:166
+#: bin/admin_templates/Admin_Settings.php:167
+#: bin/admin_templates/Admin_Settings.php:185
+msgid "Personalised settings"
+msgstr "Персональные настройки"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "and press the"
+msgstr "и нажмите"
+
+#: bin/admin_templates/Admin_Settings.php:166
+#: bin/admin_templates/Admin_Settings.php:248
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "button a page is created called"
+msgstr "Кнопка страница создана называется"
+
+#: bin/admin_templates/Admin_Settings.php:166
+msgid "that communicates with PayPals website"
+msgstr "который общается с веб-сайтом PayPals"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "The installation will require the setting up of a sellers management account with PayPal as well as setting the run setting with the address of "
+msgstr "Для установки потребуется настроить управляющую учетную запись продавца в PayPal, а также установить настройки запуска с адресом"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "copy"
+msgstr "копия"
+
+#: bin/admin_templates/Admin_Settings.php:167
+msgid "as instructed in"
+msgstr "как указано в"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid "The page named"
+msgstr "Страница с именем"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid "can be of your own design the text on it should reflect your concerns about why the user cancelled the PayPal payment and your remedies to address there concerns. The text from the short code is"
+msgstr "может быть вашего собственного дизайна, текст на нем должен отражать ваши опасения по поводу того, почему пользователь отменил платеж PayPal, и ваши средства для решения этих проблем. Текст из короткого кода"
+
+#: bin/admin_templates/Admin_Settings.php:180
+msgid " Sorry to hear that you cancelled if you had trouble please use our contact page to report to management"
+msgstr "Извините, что вы отменили, если у вас возникли проблемы, пожалуйста, используйте нашу контактную страницу, чтобы сообщить руководству"
+
+#: bin/admin_templates/Admin_Settings.php:181
+msgid "you do not need the [sasnys_Cancelled] short code just the page name"
+msgstr "вам не нужен короткий код [sasnys_Cancelled], просто имя страницы"
+
+#: bin/admin_templates/Admin_Settings.php:181
+msgid "as is in lower Case."
+msgstr "как в нижнем регистре."
+
+#: bin/admin_templates/Admin_Settings.php:182
+msgid "The page is a simple landing page to get the PayPal user back to your site. This is automatically recognised with PayPal via this application"
+msgstr "Эта страница является простой целевой страницей для возврата пользователя PayPal на ваш сайт. Это автоматически распознается PayPal через это приложение"
+
+#: bin/admin_templates/Admin_Settings.php:187
+msgid "The place name for the gift voucher redemer EXAMPLE Kingston House Restaurant"
+msgstr "Название места для подарочного ваучера Redemer ПРИМЕР Ресторан Kingston House"
+
+#: bin/admin_templates/Admin_Settings.php:188
+msgid "Gift Voucher Shop"
+msgstr "Магазин подарочных сертификатов"
+
+#: bin/admin_templates/Admin_Settings.php:192
+msgid "The shop front address for redemtion of voucher EXAMPLE 11 Channon Street Gympie QLD"
+msgstr "Адрес магазина для выкупа ваучера. ПРИМЕР 11 Channon Street Gympie QLD"
+
+#: bin/admin_templates/Admin_Settings.php:193
+msgid "Shop Address"
+msgstr "Адрес магазина"
+
+#: bin/admin_templates/Admin_Settings.php:197
+msgid "A contact phone for assistance EXAMPLE PH:01 2345 6789"
+msgstr "Контактный телефон для помощи ПРИМЕР PH: 01 2345 6789"
+
+#: bin/admin_templates/Admin_Settings.php:198
+msgid "Shop Phone Number"
+msgstr "Телефон магазина"
+
+#: bin/admin_templates/Admin_Settings.php:202
+msgid "A notice for the benificary EXAMPLE Please pre-book"
+msgstr "Уведомление о бенефициарном ПРИМЕРЕ Пожалуйста, предварительно бронируйте"
+
+#: bin/admin_templates/Admin_Settings.php:203
+msgid "Notification"
+msgstr "уведомление"
+
+#: bin/admin_templates/Admin_Settings.php:207
+msgid "EXAMPLE 6 months 0.5 years 182.6 days all equal the same time period"
+msgstr "ПРИМЕР 6 месяцев 0,5 года 182,6 дня все равны одному и тому же периоду времени"
+
+#: bin/admin_templates/Admin_Settings.php:208
+msgid "Voucher valid period"
+msgstr "Срок действия ваучера"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "PayPal business Acct Id from"
+msgstr "Идентификатор Acct Business PayPal от"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "Seler account ID"
+msgstr "Идентификатор учетной записи Seler"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "on the paypal page"
+msgstr "на странице PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "My profile"
+msgstr "Мой профайл"
+
+#: bin/admin_templates/Admin_Settings.php:215
+msgid "after registering with PayPal"
+msgstr "после регистрации в PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:221
+msgid "PayPal USER Acct E-MAIL which is your login name for PayPal"
+msgstr "PayPal USER Acct E-MAIL, который является вашим логином для PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:222
+msgid "PayPal e-mail address"
+msgstr "Адрес электронной почты PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:231
+#: bin/admin_templates/Admin_Settings.php:232
+#: bin/admin_templates/Admin_Settings.php:233
+#: bin/admin_templates/Admin_Settings.php:234
+msgid "The logo file width is stretched to 510 pixels while the height is limited to 75 pixels"
+msgstr "Ширина файла логотипа растянута до 510 пикселей, а высота ограничена до 75 пикселей"
+
+#: bin/admin_templates/Admin_Settings.php:231
+msgid "Select your logo"
+msgstr "Выберите свой логотип"
+
+#: bin/admin_templates/Admin_Settings.php:238
+msgid "E-Mail Security"
+msgstr "E-Mail Security"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "ssl ,tls or leave blank"
+msgstr "ssl, tls или оставьте пустым"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "usually mail or smtp.emailaddress.com.au"
+msgstr "обычно почта или smtp.emailaddress.com.au"
+
+#: bin/admin_templates/Admin_Settings.php:239
+msgid "Email port"
+msgstr "Порт электронной почты"
+
+#: bin/admin_templates/Admin_Settings.php:243
+msgid "email Username"
+msgstr "адрес электронной почты"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "usually your email address"
+msgstr "обычно ваш адрес электронной почты"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "Email password"
+msgstr "Пароль от электронной почты"
+
+#: bin/admin_templates/Admin_Settings.php:244
+msgid "your e-mail password"
+msgstr "ваш пароль электронной почты"
+
+#: bin/admin_templates/Admin_Settings.php:256
+msgid "PayPal integration details"
+msgstr "Детали интеграции PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:261
+msgid "When all is configuard above then the only thing left is to copy and paste these two statements to your payPal account"
+msgstr "Когда все настроено выше, остается только скопировать и вставить эти два заявления в свой счет PayPal."
+
+#: bin/admin_templates/Admin_Settings.php:266
+msgid "Statement one"
+msgstr "Заявление одно"
+
+#: bin/admin_templates/Admin_Settings.php:273
+msgid "Statement two"
+msgstr "Заявление два"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "After logging into your PayPal business account click the gear shaped icon top right."
+msgstr "После входа в свою учетную запись PayPal щелкните значок в форме шестеренки в правом верхнем углу."
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "This exposes the"
+msgstr "Это подвергает"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "Selling tools"
+msgstr "Инструменты для продажи"
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "link."
+msgstr "ссылка на сайт."
+
+#: bin/admin_templates/Admin_Settings.php:281
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "the link shows you the"
+msgstr "ссылка показывает вам"
+
+#: bin/admin_templates/Admin_Settings.php:281
+msgid "Website preferences"
+msgstr "Настройки сайта"
+
+#: bin/admin_templates/Admin_Settings.php:281
+msgid "update link. That link opens up to these dialogs. These are the default settings."
+msgstr "обновить ссылку. Эта ссылка открывает эти диалоги. Это настройки по умолчанию."
+
+#: bin/admin_templates/Admin_Settings.php:295
+msgid " Instant payment"
+msgstr "Мгновенный платеж"
+
+#: bin/admin_templates/Admin_Settings.php:295
+msgid "notifications update link. That link opens up to this dialog."
+msgstr "ссылка для обновления уведомлений. Эта ссылка открывается до этого диалога."
+
+#: bin/admin_templates/Admin_Settings.php:307
+msgid "If you need help click here"
+msgstr "Если вам нужна помощь, нажмите здесь"
+
+#: bin/admin_templates/Admin_Settings.php:315
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - более безопасный и простой способ оплаты онлайн!"
+
+#: bin/admin_templates/Admin_Settings.php:315
+msgid "Donate with PayPal button"
+msgstr "Пожертвовать с помощью кнопки PayPal"
+
+#: bin/admin_templates/Admin_Settings.php:318
+msgid "Make all this worth a value,donate to this app !"
+msgstr "Сделайте все это ценным, пожертвуйте этому приложению!"
+
+#: bin/admin_templates/SettingsLinks.php:15
+msgid "Settings"
+msgstr "настройки"
+
+#: bin/dsign/functions.php:204
+msgid "please find attached your Gift Voucher for "
+msgstr "пожалуйста, приложите ваш подарочный сертификат на"
+
+#: bin/dsign/functions.php:206
+msgid "The taxable value of this donation is $"
+msgstr "Налогооблагаемая стоимость этого пожертвования составляет $"
+
+#: bin/dsign/functions.php:208
+msgid "Payment made"
+msgstr "Платеж произведен"
+
+#: bin/dsign/functions.php:210
+msgid "please use this e-mail body as your receipt."
+msgstr "пожалуйста, используйте этот адрес электронной почты в качестве квитанции."
+
+#: bin/dsign/functions.php:212
+msgid "Thanking you"
+msgstr "Благодарю вас"
+
+#: bin/dsign/functions.php:255
+msgid "To view the message, please use an HTML compatible email viewer!"
+msgstr "Для просмотра сообщения, пожалуйста, используйте совместимый с HTML просмотрщик электронной почты!"
+
+#: bin/dsign/functions.php:376
+msgid "There is still processors on going Sorry halting page close if you really want to close prossesors please close the browser"
+msgstr "Извините, что закрываете страницу, если вы действительно хотите закрыть просессоров, закройте браузер"
+
+#: bin/dsign/functions.php:384
+msgid "There is still processors on going Sorry halted page close if you really want to close prossesors please close the browser"
+msgstr "Извините, остановили страницу, если вы действительно хотите закрыть просессоров, пожалуйста, закройте браузер"
+
+#: bin/dsign/functions.php:579
+msgid "The database is not accessable,"
+msgstr "База данных недоступна,"
+
+#: bin/dsign/functions.php:579
+msgid " try later or get in contact with service@sasnys.net.au"
+msgstr "попробуйте позже или свяжитесь с service@sasnys.net.au"
+
+#: bin/dsign/functions.php:676 bin/dsign/functions.php:721
+msgid "Print"
+msgstr "Распечатать"
+
+#: bin/dsign/functions.php:677 bin/dsign/functions.php:722
+msgid "Delete"
+msgstr "удалять"
+
+#: bin/dsign/functions.php:678
+msgid "Redeemed"
+msgstr "Redeemed"
+
+#: bin/dsign/functions.php:680
+msgid "ID code"
+msgstr "Идентификационный код"
+
+#: bin/dsign/functions.php:681
+msgid "Gift Reciever"
+msgstr "Приемник подарков"
+
+#: bin/dsign/functions.php:682
+msgid "Payed by"
+msgstr "Оплачено"
+
+#: bin/dsign/functions.php:683
+msgid "Expires on"
+msgstr "Срок истекает"
+
+#: bin/dsign/functions.php:684
+msgid "Card Value"
+msgstr "Значение карты"
+
+#: bin/dsign/functions.php:702 bin/dsign/functions.php:720
+msgid "Process"
+msgstr "Процесс"
+
+#: bin/dsign/functions.php:702
+msgid "Click to proceed with selection"
+msgstr "Нажмите, чтобы продолжить выбор"
+
+#: bin/dsign/functions.php:702
+msgid "Cancel"
+msgstr "отменить"
+
+#: bin/dsign/functions.php:702
+msgid "Click to cancel"
+msgstr "Нажмите, чтобы отменить"
+
+#: bin/dsign/functions.php:709
+msgid "Create Voucher Settings"
+msgstr "Создать настройки ваучера"
+
+#: bin/dsign/functions.php:717
+msgid "please wait unless you feel there is an error then close the browser"
+msgstr "пожалуйста, подождите, если вы не чувствуете ошибку, затем закройте браузер"
+
+#: bin/dsign/functions.php:718
+msgid "SGVC_wordwraper  str, columbs, str_break, code"
+msgstr "SGVC_wordwraper str, columbs, str_break, код"
+
+#: bin/dsign/functions.php:719
+msgid "There has been an error in accessing the data, Please contact Sasnys service please with this error"
+msgstr "При доступе к данным произошла ошибка. Пожалуйста, свяжитесь с сервисом Sasnys, пожалуйста, с этой ошибкой"
+
+#: bin/dsign/functions.php:723
+msgid "Redeem"
+msgstr "Выкупать"

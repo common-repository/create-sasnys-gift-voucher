@@ -1,0 +1,160 @@
+Eine besondere Geschenkkarte für einen besonderen Menschen
+Name des Empfängers
+Ein Name, der als Anbieter des Gutscheins verwendet werden soll
+Beim Herstellen einer Verbindung zur Datenbank ist bei dieser Art von Fehler ein Fehler aufgetreten
+Bitte rufen Sie an
+Gutschein herunterladen
+nichts ausgewählt
+Die Geschenkkarten-Prozessoren sind fertig
+Vielen Dank für Ihre benutzerdefinierte Klicken Sie auf die Schaltfläche, um Ihren Gutschein herunterzuladen, oder gehen Sie zurück, um Ihre Geschenkkarte zu bearbeiten
+Bei Problemen wenden Sie sich bitte an
+Gehe zurück zum Editor
+Bei den Geschenkkartenverarbeitern ist ein Fehler aufgetreten
+ kontaktieren Sie bitte
+die Zeit notieren
+zur Überweisung an PayPal
+ Klicken Sie zum Schließen auf die Schaltfläche
+Seite schließen
+Geschenkgutschein-Design-Seite
+Sie haben erfolgreich zur Entwurfsseite navigiert
+Begabt zu
+Wert von $
+Begabt von
+Verfallsdatum
+Code Name
+Der Name des Empfängers, dessen Zertifikat ausgestellt werden soll
+Von Namen
+Bevorzugter Name
+Ablaufdatum der Geschenkkarte
+Wert der Geschenkkarte
+Gutscheincode-Nummer
+Deine Emailadresse
+Bitte geben Sie eine E-Mail-Adresse an, an die das angehängte PDF gesendet werden soll
+Die E-Mail-Adresse, um das Zertifikat zum Drucken weiterzuleiten
+Text für Geschenkkarte
+Sie können in diesem Bereich beliebigen Text hinzufügen oder ändern
+Auswahl geeigneter Urteile zur Auswahl und / oder Änderung
+Beispieltext
+Dem besten Vater der Welt
+Zur besten Mutter der Welt
+Zum besten Nanna der Welt
+Zum besten Pop der Welt
+Für eine gute Arbeit
+Es ist unser Jubiläum
+Nur weil du es verdienst
+Zum Drucken einreichen
+E-Mail mit Anhang erstellen
+Vom Browser herunterladen
+Beide
+Wählen Sie einen Rahmen für die Geschenkkarte
+Wählen Sie einen Rand aus
+Sind Sie bereit, die Geschenkkarte als PDF auszudrucken und per Post an zu senden?
+Sind Sie bereit, eine PDF-Datei der Geschenkkarte herunterzuladen?
+Sind Sie bereit, die Geschenkkarte als PDF zu drucken?
+und maile es an
+sowie eine Kopie herunterladen?
+Ändern Sie gehen zurück
+Entschuldigung, dass Sie abgesagt haben. Wenn Sie Probleme hatten, nutzen Sie bitte unsere Kontaktseite, um dem Management Bericht zu erstatten.
+Gutschein Gültiger Zeitraum muss eine Zahl sein
+Wordpress-Funktionscodes
+Vorgeschlagene Seitengestaltung
+Beschreibung der Prozessoren
+Erstellen Sie eine vertriebsorientierte Seite mit einem kleinen Abschnitt, der eine Tabelle mit drei Zeilen und einer Spalte enthält. Die tatsächliche Größe der Einfügung wird hier angezeigt. Die Hintergrundfarbe ist transparent und der Text ist weiß
+Wert eingeben
+Erstellt eine Verknüpfung zur WordPress-Datenbank und erstellt dann automatisch eine Datenbanktabelle mit dem Namen
+ Über die Schaltfläche wird der Benutzer zur PayPal-Website für Zahlungsabwickler weitergeleitet.
+Die anzuzeigende Seite muss leer sein, wobei der gesamte Seitenbereich für die erstellte Seite verwendet wird.
+Ermöglicht dem Benutzer das Erstellen und Personalisieren des Geschenkgutscheins, der bei erfolgreicher PayPal-Zahlung für den Benutzer geöffnet wird. Dem Benutzer wird die Möglichkeit geboten, den Geschenkgutschein auszudrucken oder eine druckbare Kopie per E-Mail an ein bestimmtes E-Mail-Konto oder an beides zu senden.
+Dieser Agent, der Anwendungen installiert, muss PayPals erfolgreiche Rückkehrseite auf diese Ausführungseinstellung mit der Adresse der Makevoucher-Seite einstellen
+Die Seite muss fast die volle Bildschirmgröße haben. Es wird eine Tabelle erstellt, die sich über die gesamte Breite mit neun Spalten und Zeilen erstreckt, um den gespeicherten Daten zu entsprechen.
+Zeigt alle verwendbaren Daten im an
+ Datenbanktabelle Die Seite ermöglicht das Drucken ausgewählter Datensätze, das Löschen ausgewählter Datensätze oder das Markieren ausgewählter Datensätze von eingelösten Geschenken.
+Automatisch erstellt
+Diese Seite bleibt für den Benutzer unsichtbar und wird nur zur Überprüfung der Interaktion zwischen PayPal und dieser Anwendung verwendet.
+ Sobald Sie die Informationen auf diesen Seiten eingegeben haben
+Personalisierte Einstellungen
+und drücken Sie die
+Änderungen speichern
+Schaltfläche wird eine Seite erstellt, die aufgerufen wird
+das mit der PayPals-Website kommuniziert
+Die Installation erfordert die Einrichtung eines Verkäuferverwaltungskontos bei PayPal sowie die Einstellung der Ausführung mit der Adresse von
+Kopieren
+wie angewiesen in
+Die Seite mit dem Namen
+Der Text kann von Ihnen selbst gestaltet sein. Er sollte Ihre Bedenken hinsichtlich des Grunds für die Stornierung der PayPal-Zahlung und Ihrer Abhilfemaßnahmen widerspiegeln, um diese Bedenken auszuräumen. Der Text aus der Kurzwahl lautet
+ Es tut uns leid, dass Sie abgesagt haben, wenn Sie Probleme hatten. Bitte verwenden Sie unsere Kontaktseite, um dem Management Bericht zu erstatten
+Sie benötigen nicht den Funktionscode [sasnys_Cancelled], sondern nur den Seitennamen
+wie in Kleinbuchstaben.
+Die Seite ist eine einfache Landing Page, um den PayPal-Nutzer zurück zu Ihrer Website zu bringen. Dies wird bei PayPal über diese Anwendung automatisch erkannt
+Der Ortsname für den Gutschein einlösen BEISPIEL Kingston House Restaurant
+Geschenkgutschein Shop
+Die Geschäftsadresse für die Einlösung des Gutscheins BEISPIEL 11 Channon Street Gympie QLD
+Geschäftsadresse
+Ein Kontakttelefon für Hilfe BEISPIEL PH: 01 2345 6789
+Shop Telefonnummer
+Ein Hinweis für das wohltätige BEISPIEL Bitte vorbestellen
+Benachrichtigung
+BEISPIEL 6 Monate, 0,5 Jahre, 182,6 Tage, alle sind gleich lang
+Gültigkeitsdauer des Gutscheins
+PayPal-Geschäftskontonummer von
+Seler Account ID
+auf der paypal seite
+Mein Profil
+nach der Registrierung bei PayPal
+PayPal USER Acct E-MAIL, das ist Ihr Login-Name für PayPal
+PayPal-E-Mail-Adresse
+Die Breite der Logodatei ist auf 510 Pixel und die Höhe auf 75 Pixel begrenzt
+Wählen Sie Ihr Logo
+E-Mail-Sicherheit
+ssl, tls oder leer lassen
+normalerweise mail oder smtp.emailaddress.com.au
+E-Mail-Port
+E-Mail-Benutzername
+in der Regel Ihre E-Mail-Adresse
+E-Mail Passwort
+Ihr E-Mail-Passwort
+Details zur PayPal-Integration
+Wenn alles über configuard liegt, müssen Sie diese beiden Kontoauszüge nur noch kopieren und in Ihr PayPal-Konto einfügen
+Aussage eins
+Aussage zwei
+Nachdem Sie sich in Ihrem PayPal-Geschäftskonto angemeldet haben, klicken Sie oben rechts auf das Zahnradsymbol.
+Dadurch wird die
+Verkauf von Werkzeugen
+Verknüpfung.
+der link zeigt dir die
+Website-Einstellungen
+Link aktualisieren. Dieser Link öffnet sich zu diesen Dialogen. Dies sind die Standardeinstellungen.
+ Sofortzahlung
+Benachrichtigungs-Update-Link. Dieser Link öffnet sich zu diesem Dialog.
+Wenn Sie Hilfe benötigen, klicken Sie hier
+PayPal - Der sicherere und einfachere Weg, online zu bezahlen!
+Spenden Sie mit dem PayPal-Button
+Machen Sie all dies einen Wert wert, spenden Sie für diese App!
+die Einstellungen
+Im Anhang finden Sie Ihren Geschenkgutschein für
+Der steuerpflichtige Wert dieser Spende beträgt $
+Zahlung erfolgt
+Bitte verwenden Sie diesen E-Mail-Text als Quittung.
+Ihnen zu danken
+Verwenden Sie zum Anzeigen der Nachricht einen HTML-kompatiblen E-Mail-Viewer!
+Es sind noch Prozessoren in Bearbeitung. Entschuldigung, wenn Sie die Seite schließen möchten, schließen Sie bitte den Browser
+Es sind noch Prozessoren in Bearbeitung. Sorry, angehaltene Seite schließen. Wenn Sie Prossesoren wirklich schließen möchten, schließen Sie bitte den Browser
+Auf die Datenbank kann nicht zugegriffen werden.
+ Versuchen Sie es später oder wenden Sie sich an service@sasnys.net.au
+Drucken
+Löschen
+Eingelöst
+Identifikationsnummer
+Geschenk-Empfänger
+Bezahlt von
+Läuft aus am
+Kartenwert
+Verarbeiten
+Klicken Sie, um mit der Auswahl fortzufahren
+Stornieren
+Klicken Sie, um abzubrechen
+Gutschein Einstellungen erstellen
+Bitte warten Sie, bis ein Fehler aufgetreten ist, und schließen Sie dann den Browser
+SGVC_wordwraper str, columbs, str_break, code
+Beim Zugriff auf die Daten ist ein Fehler aufgetreten. Bitte wenden Sie sich mit diesem Fehler an den Sasnys-Service
+Einlösen

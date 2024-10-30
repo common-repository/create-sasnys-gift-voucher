@@ -1,0 +1,160 @@
+Kartu hadiah khusus untuk seseorang yang spesial
+nama penerima
+nama untuk digunakan sebagai penyedia voucher
+Ada kesalahan dalam membangun koneksi ke database dengan jenis kesalahan ini
+tolong telepon
+Unduh Voucher
+tidak ada yang di pilih
+Prosesor kartu Hadiah telah selesai
+Berterima kasih kepada Anda untuk kustom Anda klik tombol untuk mengunduh voucher Anda atau kembali untuk mengedit kartu hadiah Anda
+Jika Anda memiliki masalah, silakan hubungi
+Kembali ke editor
+Prosesor kartu Hadiah mengalami kesalahan
+ mohon hubungi
+mencatat waktu
+untuk referensi ke PayPal
+ klik tombol untuk menutup
+Tutup Halaman
+Halaman desain Kupon Hadiah
+Anda telah berhasil menavigasi ke halaman desain
+Berbakat untuk
+Nilai $
+Berbakat dari
+tanggal kadaluarsa
+nama kode
+Nama penerima untuk dimasukkan pada sertifikat
+Dari nama
+Nama yang dipilih
+Tanggal Kadaluwarsa Kartu Hadiah
+Nilai Kartu Hadiah
+Nomor kode kartu hadiah
+Alamat email anda
+Silakan masukkan alamat email untuk mengirim pdf terlampir
+E-mail menerima untuk meneruskan sertifikat untuk dicetak
+Teks untuk Kartu Hadiah
+Anda dapat menambahkan atau mengubah teks apa pun di area ini
+pemilihan kalimat yang cocok untuk dipilih dan atau diubah
+Contoh teks
+Untuk ayah terbaik di dunia
+Untuk ibu terbaik di dunia
+Untuk nanna terbaik di dunia
+Untuk pop terbaik di dunia
+Untuk pekerjaan yang dilakukan dengan baik
+Ini ulang tahun kami
+Hanya karena Anda pantas menerimanya
+Kirim untuk dicetak
+Buat email dengan Lampiran
+Unduh dari browser
+Kedua
+Pilih bingkai untuk kartu hadiah
+Pilih batas
+Apakah Anda siap untuk mencetak kartu Hadiah ke PDF dan mengirimkannya ke
+Apakah Anda siap untuk mengunduh file PDF Kartu Hadiah?
+Apakah Anda siap untuk mencetak kartu Hadiah ke PDF
+dan kirimkan ke
+serta mengunduh salinan?
+Ubah kembali
+Maaf mendengar Anda dibatalkan. jika Anda mengalami masalah, silakan gunakan halaman kontak kami untuk melaporkan kepada manajemen.
+Masa berlaku Voucher harus berupa angka
+Kode pendek Wordpress
+Halaman menyarankan format desain
+Deskripsi prosesor
+Buat halaman berorientasi penjualan dengan bagian kecil untuk menampung tabel tiga baris dan satu kolom ukuran sebenarnya dari sisipan ditampilkan di sini. Warna latar belakang transparan dan teksnya putih
+Masukkan nilai
+Membuat tautan ke database wordpress dan kemudian secara otomatis membuat tabel database bernama
+ Tombol mengirim pengguna ke situs PayPal untuk memproses pembayaran.
+Halaman untuk tampilan harus kosong dengan halaman yang dibuat menggunakan semua area halaman.
+Mengizinkan pengguna membuat dan mempersonalisasi Kupon Kartu Hadiah yang dibuka untuk pengguna dengan pembayaran PayPal yang berhasil. Pengguna ditawari pilihan untuk mencetak Kupon Hadiah atau mengirimkan salinan yang dapat dicetak melalui email ke akun email yang ditunjuk atau keduanya.
+Agen penginstal aplikasi ini harus mengatur PayPals agar berhasil mengembalikan halaman ke pengaturan run ini dengan alamat halaman makevoucher
+halaman harus berukuran hampir layar penuh. Ada tabel yang dibuat yang akan menjangkau lebar penuh dengan sembilan kolom dan baris untuk mencocokkan data yang disimpan.
+Menampilkan semua data yang dapat digunakan di
+ tabel database halaman memungkinkan pencetakan catatan yang dipilih, penghapusan catatan yang dipilih, atau menandai catatan yang dipilih dari hadiah yang ditebus terhormat.
+Dibuat Otomatis
+Halaman ini tetap tidak terlihat oleh pengguna dan hanya digunakan untuk interaksi verifikasi antara PayPal dan aplikasi ini.
+ Setelah Anda mengisi informasi di halaman ini
+Pengaturan yang dipersonalisasi
+dan tekan tombol
+Simpan perubahan
+tombol halaman dibuat disebut
+yang berkomunikasi dengan situs web PayPals
+Instalasi akan memerlukan pengaturan akun manajemen penjual dengan PayPal serta pengaturan menjalankan pengaturan dengan alamat
+salinan
+seperti yang diinstruksikan
+Halaman itu bernama
+bisa dari desain Anda sendiri teks di atasnya harus mencerminkan kekhawatiran Anda tentang mengapa pengguna membatalkan pembayaran PayPal dan solusi Anda untuk mengatasi masalah di sana. Teks dari kode pendek adalah
+ Maaf mendengar Anda dibatalkan jika Anda mengalami masalah, silakan gunakan halaman kontak kami untuk melaporkan kepada manajemen
+Anda tidak memerlukan kode pendek [sasnys_Cancelled] hanya nama halaman
+seperti dalam Huruf kecil.
+Halaman ini adalah halaman arahan sederhana untuk mendapatkan pengguna PayPal kembali ke situs Anda. Ini secara otomatis dikenali dengan PayPal melalui aplikasi ini
+Nama tempat untuk voucher hadiah redemer CONTOH Kingston House Restaurant
+Toko Voucher Hadiah
+Alamat depan toko untuk redemtion voucher CONTOH 11 Channon Street Gympie QLD
+Alamat Toko
+Telepon kontak untuk bantuan. CONTOH PH: 01 2345 6789
+Nomor Telepon Toko
+Pemberitahuan untuk CONTOH penerima. Silakan memesan di muka
+Pemberitahuan
+CONTOH 6 bulan 0,5 tahun 182,6 hari semuanya sama dengan periode waktu yang sama
+Masa berlaku voucher
+Id Acct bisnis PayPal dari
+ID akun Seler
+di halaman paypal
+Profil saya
+setelah mendaftar dengan PayPal
+E-MAIL PENGGUNA PayPal yang merupakan nama login Anda untuk PayPal
+Alamat email PayPal
+Lebar file logo direntangkan menjadi 510 piksel sementara tingginya dibatasi hingga 75 piksel
+Pilih logo Anda
+Keamanan E-Mail
+ssl, tls atau biarkan kosong
+biasanya mail atau smtp.emailaddress.com.au
+Port email
+email Nama Pengguna
+biasanya alamat email Anda
+Kata sandi email
+kata sandi email Anda
+Detail integrasi PayPal
+Ketika semua configuard di atas maka satu-satunya yang tersisa adalah menyalin dan menempelkan dua pernyataan ini ke akun paypal Anda
+Pernyataan satu
+Pernyataan dua
+Setelah masuk ke akun bisnis PayPal Anda, klik ikon berbentuk gigi di kanan atas.
+Ini memperlihatkan
+Jual alat
+link.
+tautannya menunjukkan
+Preferensi situs web
+perbarui tautan. Tautan itu membuka dialog-dialog ini. Ini adalah pengaturan default.
+ Pembayaran instan
+tautan pembaruan notifikasi. Tautan itu membuka dialog ini.
+Jika Anda butuh bantuan klik di sini
+PayPal - Cara pembayaran online yang lebih aman dan lebih mudah!
+Donasi dengan tombol PayPal
+Buat semua ini bernilai, donasi ke aplikasi ini!
+Pengaturan
+tolong temukan terlampir Kupon Hadiah Anda untuk
+Nilai kena pajak dari sumbangan ini adalah $
+Pembayaran dilakukan
+silakan gunakan badan email ini sebagai tanda terima Anda.
+Terima kasih
+Untuk melihat pesan, silakan gunakan penampil email yang kompatibel dengan HTML!
+Masih ada prosesor untuk melanjutkan Maaf menghentikan halaman tutup jika Anda benar-benar ingin menutup prossesor silakan tutup browser
+Masih ada prosesor untuk melanjutkan Maaf, tutup halaman yang dihentikan jika Anda benar-benar ingin menutup prossesor, silakan tutup browser
+Basis data tidak dapat diakses,
+ coba nanti atau hubungi service@sasnys.net.au
+Mencetak
+Menghapus
+Ditebus
+Kode ID
+Penerima Hadiah
+Dibayar oleh
+Kadaluarsa pada
+Nilai Kartu
+Proses
+Klik untuk melanjutkan dengan seleksi
+Membatalkan
+Klik untuk membatalkan
+Buat Pengaturan Voucher
+harap tunggu kecuali Anda merasa ada kesalahan lalu tutup browser
+SGVC_wordwraper str, columbs, str_break, kode
+Telah ada kesalahan dalam mengakses data, Silakan hubungi layanan Sasnys, silakan dengan kesalahan ini
+Menebus
